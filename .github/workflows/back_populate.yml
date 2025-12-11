@@ -2,6 +2,8 @@ name: back_populate
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "30 0 * * *"
 
 jobs:
   back_populate:
