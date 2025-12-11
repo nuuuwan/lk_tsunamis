@@ -7,3 +7,4 @@ if __name__ == "__main__":
         time_window=TimeUnit.SECONDS_IN.AVG_YEAR * 100, min_magnitude=7
     )
     Earthquake.build_readme()
+    Earthquake.aggregate()

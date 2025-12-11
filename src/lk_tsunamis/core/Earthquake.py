@@ -182,6 +182,27 @@ class Earthquake:
         return lines
 
     @classmethod
+    def aggregate(cls):
+        earthquakes = cls.list_all()
+
+        recent_earthquakes = earthquakes[:10]
+        recent_path = os.path.join(
+            cls.DIR_DATA,
+            "recent_earthquakes.json",
+        )
+        recent_file = JSONFile(recent_path)
+        recent_file.write([asdict(e) for e in recent_earthquakes])
+        log.info(f"Wrote {recent_file}")
+
+        all_path = os.path.join(
+            cls.DIR_DATA,
+            "all_earthquakes.json",
+        )
+        all_file = JSONFile(all_path)
+        all_file.write([asdict(e) for e in earthquakes])
+        log.info(f"Wrote {all_file}")
+
+    @classmethod
     def build_readme(cls):
         earthquakes = cls.list_all()
         max_time_ut = max([e.time_ut for e in earthquakes])
