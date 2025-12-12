@@ -164,7 +164,9 @@ class Earthquake:
         )
 
         for e in earthquakes:
-            date_time = TimeFormat("%Y-%m-%d %H:%M:%S").format(Time(e.time_ut))
+            date_time = TimeFormat("%Y-%m-%d %H:%M:%S").format(
+                Time(e.time_ut)
+            )
             location = e.title.replace(f"M {e.magnitude} - ", "")
             lat, lng = e.lat_lng
             lat_dir = "N" if lat >= 0 else "S"
@@ -175,8 +177,17 @@ class Earthquake:
             maps_url = f"https://www.google.com/maps?q={lat},{lng}"
             coords_link = f"[{coords_text}]({maps_url})"
             distance_km = f"{e.distance_to_lk:,.0f} km"
+
+            magnitude_emoji = "⚪️"
+            if e.magnitude >= 8.0:
+                magnitude_emoji = "🔴"
+            elif e.magnitude >= 6.5:
+                magnitude_emoji = "🟠"
+            elif e.magnitude >= 5.0:
+                magnitude_emoji = "🟡"
+
             line = (
-                f"| `{date_time}` | {e.magnitude:.1f} | "
+                f"| {magnitude_emoji} `{date_time}` | {e.magnitude:.1f} | "
                 f"[{location}]({e.url}) | {coords_link} | {distance_km} |"
             )
             lines.append(line)
