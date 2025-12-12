@@ -23,16 +23,16 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
-| `2004-12-26 06:28:53` | 9.1 | 2004 Sumatra - Andaman Islands Earthquake | [3.2950° N, 95.9820° E](https://www.google.com/maps?q=3.295,95.982) | 1,758 km |
-| `2004-12-26 06:28:53` | 9.1 | 2004 Sumatra - Andaman Islands Earthquake | [3.2950° N, 95.9820° E](https://www.google.com/maps?q=3.295,95.982) | 1,758 km |
+| `2004-12-26 06:58:53` | 9.1 | 2004 Sumatra - Andaman Islands Earthquake | [3.2950° N, 95.9820° E](https://www.google.com/maps?q=3.295,95.982) | 1,758 km |
 | `2012-04-11 14:08:36` | 8.6 | 2012 Wharton Basin Earthquake | [2.3270° N, 93.0630° E](https://www.google.com/maps?q=2.327,93.063) | 1,494 km |
-| `2005-03-28 21:39:36` | 8.6 | 78 km WSW of Singkil, Indonesia | [2.0850° N, 97.1080° E](https://www.google.com/maps?q=2.085,97.108) | 1,920 km |
-| `2005-03-28 21:39:36` | 8.6 | 78 km WSW of Singkil, Indonesia | [2.0850° N, 97.1080° E](https://www.google.com/maps?q=2.085,97.108) | 1,920 km |
+| `2005-03-28 22:09:36` | 8.6 | 78 km WSW of Singkil, Indonesia | [2.0850° N, 97.1080° E](https://www.google.com/maps?q=2.085,97.108) | 1,920 km |
 | `2007-09-12 16:40:26` | 8.4 | 122 km SW of Bengkulu, Indonesia | [4.4380° S, 101.3670° E](https://www.google.com/maps?q=-4.438,101.367) | 2,663 km |
 | `2012-04-11 16:13:10` | 8.2 | 2012 Wharton Basin Aftershock | [0.8020° N, 92.4630° E](https://www.google.com/maps?q=0.802,92.463) | 1,515 km |
 | `1941-06-26 17:22:04` | 7.96 | M 8.0 - 43 km N of Bamboo Flat, India | [12.0840° N, 92.6500° E](https://www.google.com/maps?q=12.084,92.65) | 1,382 km |
 | `2007-09-13 05:19:03` | 7.9 | 87 km SW of Sungai Penuh, Indonesia | [2.6250° S, 100.8410° E](https://www.google.com/maps?q=-2.625,100.841) | 2,514 km |
-| `2000-06-04 21:58:26` | 7.9 | 103 km S of Bengkulu, Indonesia | [4.7210° S, 102.0870° E](https://www.google.com/maps?q=-4.721,102.087) | 2,748 km |
+| `2000-06-04 22:28:26` | 7.9 | 103 km S of Bengkulu, Indonesia | [4.7210° S, 102.0870° E](https://www.google.com/maps?q=-4.721,102.087) | 2,748 km |
+| `2016-03-02 18:19:48` | 7.8 | southwest of Sumatra, Indonesia | [4.9521° S, 94.3299° E](https://www.google.com/maps?q=-4.9521,94.3299) | 2,073 km |
+| `2010-10-25 20:12:22` | 7.8 | 215 km SW of Sungai Penuh, Indonesia | [3.4870° S, 100.0820° E](https://www.google.com/maps?q=-3.487,100.082) | 2,487 km |
 ![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
 ![MadeWith](https://img.shields.io/badge/made_with-python-blue)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

@@ -1,0 +1,602 @@
+[
+  {
+    "net": "us",
+    "code": "6000rtug",
+    "lat_lng": [
+      5.3043,
+      94.3584
+    ],
+    "magnitude": 4.9,
+    "title": "M 4.9 - 111 km WSW of Banda Aceh, Indonesia",
+    "time_ut": 1765352575,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rtug"
+  },
+  {
+    "net": "us",
+    "code": "6000rtqb",
+    "lat_lng": [
+      -0.7828,
+      100.866
+    ],
+    "magnitude": 4.9,
+    "title": "M 4.9 - 15 km SW of Sijunjung, Indonesia",
+    "time_ut": 1765309707,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rtqb"
+  },
+  {
+    "net": "us",
+    "code": "6000rtkx",
+    "lat_lng": [
+      2.5415,
+      95.9922
+    ],
+    "magnitude": 5.2,
+    "title": "M 5.2 - 43 km W of Sinabang, Indonesia",
+    "time_ut": 1765263773,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rtkx"
+  },
+  {
+    "net": "us",
+    "code": "6000rtfw",
+    "lat_lng": [
+      -1.296,
+      101.7557
+    ],
+    "magnitude": 4.2,
+    "title": "M 4.2 - 45 km WNW of Muara Bungo, Indonesia",
+    "time_ut": 1765215283,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rtfw"
+  },
+  {
+    "net": "us",
+    "code": "7000jvl3",
+    "lat_lng": [
+      -0.8082,
+      98.5112
+    ],
+    "magnitude": 7.1,
+    "title": "M 7.1 - 171 km SSE of Teluk Dalam, Indonesia",
+    "time_ut": 1682366457,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jvl3"
+  },
+  {
+    "net": "us",
+    "code": "10004u1y",
+    "lat_lng": [
+      -4.9521,
+      94.3299
+    ],
+    "magnitude": 7.8,
+    "title": "M 7.8 - southwest of Sumatra, Indonesia",
+    "time_ut": 1456922988,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10004u1y"
+  },
+  {
+    "net": "us",
+    "code": "p000jhjb",
+    "lat_lng": [
+      0.802,
+      92.463
+    ],
+    "magnitude": 8.2,
+    "title": "M 8.2 - 2012 Wharton Basin Aftershock",
+    "time_ut": 1334140990,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jhjb"
+  },
+  {
+    "net": "official",
+    "code": "20120411083836720_20",
+    "lat_lng": [
+      2.327,
+      93.063
+    ],
+    "magnitude": 8.6,
+    "title": "M 8.6 - 2012 Wharton Basin Earthquake",
+    "time_ut": 1334133516,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official20120411083836720_20"
+  },
+  {
+    "net": "us",
+    "code": "p000jdar",
+    "lat_lng": [
+      2.433,
+      93.21
+    ],
+    "magnitude": 7.2,
+    "title": "M 7.2 - off the west coast of northern Sumatra",
+    "time_ut": 1326220619,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jdar"
+  },
+  {
+    "net": "us",
+    "code": "p000hnj4",
+    "lat_lng": [
+      -3.487,
+      100.082
+    ],
+    "magnitude": 7.8,
+    "title": "M 7.8 - 215 km SW of Sungai Penuh, Indonesia",
+    "time_ut": 1288017742,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hnj4"
+  },
+  {
+    "net": "us",
+    "code": "p000hdwb",
+    "lat_lng": [
+      7.881,
+      91.936
+    ],
+    "magnitude": 7.5,
+    "title": "M 7.5 - Nicobar Islands, India region",
+    "time_ut": 1276370810,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hdwb"
+  },
+  {
+    "net": "us",
+    "code": "p000hchk",
+    "lat_lng": [
+      3.748,
+      96.018
+    ],
+    "magnitude": 7.2,
+    "title": "M 7.2 - 45 km SSW of Meulaboh, Indonesia",
+    "time_ut": 1273384781,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hchk"
+  },
+  {
+    "net": "us",
+    "code": "p000hat0",
+    "lat_lng": [
+      2.383,
+      97.048
+    ],
+    "magnitude": 7.8,
+    "title": "M 7.8 - 75 km E of Sinabang, Indonesia",
+    "time_ut": 1270592101,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hat0"
+  },
+  {
+    "net": "us",
+    "code": "p000h237",
+    "lat_lng": [
+      -0.72,
+      99.867
+    ],
+    "magnitude": 7.6,
+    "title": "M 7.6 - 30 km WSW of Pariaman, Indonesia",
+    "time_ut": 1254305769,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h237"
+  },
+  {
+    "net": "us",
+    "code": "p000h05x",
+    "lat_lng": [
+      14.099,
+      92.902
+    ],
+    "magnitude": 7.5,
+    "title": "M 7.5 - 266 km N of Bamboo Flat, India",
+    "time_ut": 1249934138,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h05x"
+  },
+  {
+    "net": "us",
+    "code": "p000fzx4",
+    "lat_lng": [
+      -2.486,
+      99.972
+    ],
+    "magnitude": 7.2,
+    "title": "M 7.2 - 164 km WSW of Sungai Penuh, Indonesia",
+    "time_ut": 1203928593,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fzx4"
+  },
+  {
+    "net": "us",
+    "code": "p000fzau",
+    "lat_lng": [
+      2.768,
+      95.964
+    ],
+    "magnitude": 7.4,
+    "title": "M 7.4 - 56 km NW of Sinabang, Indonesia",
+    "time_ut": 1203494910,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fzau"
+  },
+  {
+    "net": "us",
+    "code": "p000fn3d",
+    "lat_lng": [
+      -2.13,
+      99.627
+    ],
+    "magnitude": 7,
+    "title": "M 7.0 - 153 km SSW of Padang, Indonesia",
+    "time_ut": 1189654528,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fn3d"
+  },
+  {
+    "net": "us",
+    "code": "p000fn2b",
+    "lat_lng": [
+      -2.625,
+      100.841
+    ],
+    "magnitude": 7.9,
+    "title": "M 7.9 - 87 km SW of Sungai Penuh, Indonesia",
+    "time_ut": 1189640943,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fn2b"
+  },
+  {
+    "net": "official",
+    "code": "20070912111026830_34",
+    "lat_lng": [
+      -4.438,
+      101.367
+    ],
+    "magnitude": 8.4,
+    "title": "M 8.4 - 122 km SW of Bengkulu, Indonesia",
+    "time_ut": 1189595426,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official20070912111026830_34"
+  },
+  {
+    "net": "us",
+    "code": "p000dvtc",
+    "lat_lng": [
+      7.92,
+      92.19
+    ],
+    "magnitude": 7.2,
+    "title": "M 7.2 - Nicobar Islands, India region",
+    "time_ut": 1122219726,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000dvtc"
+  },
+  {
+    "net": "official",
+    "code": "20050328160936530_30",
+    "lat_lng": [
+      2.085,
+      97.108
+    ],
+    "magnitude": 8.6,
+    "title": "M 8.6 - 78 km WSW of Singkil, Indonesia",
+    "time_ut": 1112026176,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official20050328160936530_30"
+  },
+  {
+    "net": "us",
+    "code": "p000dbg6",
+    "lat_lng": [
+      6.91,
+      92.958
+    ],
+    "magnitude": 7.2,
+    "title": "M 7.2 - 284 km WNW of Sabang, Indonesia",
+    "time_ut": 1104034889,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000dbg6"
+  },
+  {
+    "net": "official",
+    "code": "20041226005853450_30",
+    "lat_lng": [
+      3.295,
+      95.982
+    ],
+    "magnitude": 9.1,
+    "title": "M 9.1 - 2004 Sumatra - Andaman Islands Earthquake",
+    "time_ut": 1104022733,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official20041226005853450_30"
+  },
+  {
+    "net": "us",
+    "code": "p000d0v4",
+    "lat_lng": [
+      -2.427,
+      103.981
+    ],
+    "magnitude": 7.3,
+    "title": "M 7.3 - 100 km SSE of Jambi City, Indonesia",
+    "time_ut": 1090766119,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000d0v4"
+  },
+  {
+    "net": "us",
+    "code": "p000c2ka",
+    "lat_lng": [
+      -2.598,
+      68.382
+    ],
+    "magnitude": 7.6,
+    "title": "M 7.6 - Carlsberg Ridge",
+    "time_ut": 1058300870,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000c2ka"
+  },
+  {
+    "net": "us",
+    "code": "p000bfuz",
+    "lat_lng": [
+      2.824,
+      96.085
+    ],
+    "magnitude": 7.4,
+    "title": "M 7.4 - 50 km NW of Sinabang, Indonesia",
+    "time_ut": 1036200370,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000bfuz"
+  },
+  {
+    "net": "us",
+    "code": "p000a9kc",
+    "lat_lng": [
+      -4.68,
+      102.562
+    ],
+    "magnitude": 7.4,
+    "title": "M 7.4 - 102 km SSE of Bengkulu, Indonesia",
+    "time_ut": 982092510,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000a9kc"
+  },
+  {
+    "net": "us",
+    "code": "p0009txv",
+    "lat_lng": [
+      -4.721,
+      102.087
+    ],
+    "magnitude": 7.9,
+    "title": "M 7.9 - 103 km S of Bengkulu, Indonesia",
+    "time_ut": 960136106,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009txv"
+  },
+  {
+    "net": "us",
+    "code": "p0009hnt",
+    "lat_lng": [
+      -1.339,
+      88.976
+    ],
+    "magnitude": 7,
+    "title": "M 7.0 - South Indian Ocean",
+    "time_ut": 942644563,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009hnt"
+  },
+  {
+    "net": "us",
+    "code": "p0008jd7",
+    "lat_lng": [
+      -0.544,
+      99.261
+    ],
+    "magnitude": 7,
+    "title": "M 7.0 - 95 km W of Pariaman, Indonesia",
+    "time_ut": 891453383,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008jd7"
+  },
+  {
+    "net": "us",
+    "code": "p000294z",
+    "lat_lng": [
+      0.197,
+      98.027
+    ],
+    "magnitude": 7.1,
+    "title": "M 7.1 - 190 km SSW of Sibolga, Indonesia",
+    "time_ut": 469522170,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000294z"
+  },
+  {
+    "net": "us",
+    "code": "p0000gzb",
+    "lat_lng": [
+      3.397,
+      96.318
+    ],
+    "magnitude": 7,
+    "title": "M 7.0 - 85 km SSE of Meulaboh, Indonesia",
+    "time_ut": 204151993,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000gzb"
+  },
+  {
+    "net": "us",
+    "code": "p0000d0m",
+    "lat_lng": [
+      -4.882,
+      102.198
+    ],
+    "magnitude": 7,
+    "title": "M 7.0 - 119 km S of Bengkulu, Indonesia",
+    "time_ut": 181366198,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000d0m"
+  },
+  {
+    "net": "iscgemsup",
+    "code": "785445",
+    "lat_lng": [
+      -4.33,
+      102.285
+    ],
+    "magnitude": 7.02,
+    "title": "M 7.0 - 58 km S of Bengkulu, Indonesia",
+    "time_ut": 39944759,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup785445"
+  },
+  {
+    "net": "iscgem",
+    "code": "786889",
+    "lat_lng": [
+      0.653,
+      98.711
+    ],
+    "magnitude": 7.04,
+    "title": "M 7.0 - 101 km SW of Padangsidempuan, Indonesia",
+    "time_ut": 34529609,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem786889"
+  },
+  {
+    "net": "iscgem",
+    "code": "802491",
+    "lat_lng": [
+      2.005,
+      94.489
+    ],
+    "magnitude": 7.59,
+    "title": "M 7.6 - 216 km WSW of Sinabang, Indonesia",
+    "time_ut": -3534862,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem802491"
+  },
+  {
+    "net": "iscgemsup",
+    "code": "864419",
+    "lat_lng": [
+      8.855,
+      93.101
+    ],
+    "magnitude": 7.1,
+    "title": "M 7.1 - Nicobar Islands, India region",
+    "time_ut": -167041822,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup864419"
+  },
+  {
+    "net": "iscgem",
+    "code": "889535",
+    "lat_lng": [
+      6.828,
+      93.869
+    ],
+    "magnitude": 7.05,
+    "title": "M 7.1 - 190 km WNW of Sabang, Indonesia",
+    "time_ut": -461581805,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem889535"
+  },
+  {
+    "net": "iscgem",
+    "code": "899313",
+    "lat_lng": [
+      -0.015,
+      75.313
+    ],
+    "magnitude": 7.36,
+    "title": "M 7.4 - 212 km E of Fuvahmulah, Maldives",
+    "time_ut": -815383914,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899313"
+  },
+  {
+    "net": "iscgem",
+    "code": "899872",
+    "lat_lng": [
+      -0.938,
+      100.937
+    ],
+    "magnitude": 7.73,
+    "title": "M 7.7 - 26 km S of Sijunjung, Indonesia",
+    "time_ut": -838328022,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899872"
+  },
+  {
+    "net": "iscgem",
+    "code": "899871",
+    "lat_lng": [
+      -2.84,
+      102.195
+    ],
+    "magnitude": 7.38,
+    "title": "M 7.4 - 78 km NNW of Curup, Indonesia",
+    "time_ut": -838351037,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899871"
+  },
+  {
+    "net": "iscgem",
+    "code": "900863",
+    "lat_lng": [
+      12.084,
+      92.65
+    ],
+    "magnitude": 7.96,
+    "title": "M 8.0 - 43 km N of Bamboo Flat, India",
+    "time_ut": -899899676,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900863"
+  },
+  {
+    "net": "iscgem",
+    "code": "901866",
+    "lat_lng": [
+      -1.272,
+      89.324
+    ],
+    "magnitude": 7.5,
+    "title": "M 7.5 - South Indian Ocean",
+    "time_ut": -971477326,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901866"
+  },
+  {
+    "net": "iscgem",
+    "code": "903844",
+    "lat_lng": [
+      3.681,
+      97.578
+    ],
+    "magnitude": 7.06,
+    "title": "M 7.1 - 86 km WSW of Pangkalan Brandan, Indonesia",
+    "time_ut": -1050361093,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903844"
+  },
+  {
+    "net": "iscgem",
+    "code": "904721",
+    "lat_lng": [
+      -0.278,
+      98.242
+    ],
+    "magnitude": 7.6,
+    "title": "M 7.6 - 212 km W of Pariaman, Indonesia",
+    "time_ut": -1073337869,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904721"
+  },
+  {
+    "net": "iscgem",
+    "code": "904448",
+    "lat_lng": [
+      4.381,
+      96.406
+    ],
+    "magnitude": 7,
+    "title": "M 7.0 - 40 km NE of Meulaboh, Indonesia",
+    "time_ut": -1086043795,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904448"
+  },
+  {
+    "net": "iscgem",
+    "code": "907777",
+    "lat_lng": [
+      18.17,
+      96.336
+    ],
+    "magnitude": 7.52,
+    "title": "M 7.5 - 36 km SSW of Pyu, Myanmar",
+    "time_ut": -1233205693,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907777"
+  },
+  {
+    "net": "iscgem",
+    "code": "907352",
+    "lat_lng": [
+      17.733,
+      96.406
+    ],
+    "magnitude": 7.43,
+    "title": "M 7.4 - 41 km SW of Nyaunglebin, Myanmar",
+    "time_ut": -1251540839,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907352"
+  },
+  {
+    "net": "iscgem",
+    "code": "908528",
+    "lat_lng": [
+      -2.347,
+      88.463
+    ],
+    "magnitude": 7.7,
+    "title": "M 7.7 - South Indian Ocean",
+    "time_ut": -1319522070,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908528"
+  }
+]

@@ -45,7 +45,7 @@ class Earthquake:
 
     @property
     def file_path(self) -> str:
-        file_name = f"{self.time_id}.{self.earthquake_id}.json"
+        file_name = f"{self.earthquake_id}.json"
         return os.path.join(self.dir_parent_data, file_name)
 
     @property
