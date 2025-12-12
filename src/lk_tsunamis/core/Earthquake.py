@@ -1,6 +1,5 @@
 import json
 import os
-import re
 from dataclasses import asdict, dataclass
 from math import asin, cos, radians, sin, sqrt
 from urllib.parse import urlencode
@@ -165,7 +164,9 @@ class Earthquake:
         )
 
         for e in earthquakes:
-            date_time = TimeFormat("%Y-%m-%d %H:%M:%S").format(Time(e.time_ut))
+            date_time = TimeFormat("%Y-%m-%d %H:%M:%S").format(
+                Time(e.time_ut)
+            )
             location = e.title.replace(f"M {e.magnitude} - ", "")
             lat, lng = e.lat_lng
             lat_dir = "N" if lat >= 0 else "S"
