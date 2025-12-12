@@ -4,7 +4,7 @@ from lk_tsunamis import Earthquake
 
 if __name__ == "__main__":
     Earthquake.list_from_remote(
-        time_window=TimeUnit.SECONDS_IN.WEEK, min_magnitude=3
+        time_window=TimeUnit.SECONDS_IN.WEEK * 8, min_magnitude=4
     )
     Earthquake.build_readme()
     Earthquake.aggregate()

@@ -49,6 +49,306 @@
   },
   {
     "net": "us",
+    "code": "7000rf1l",
+    "lat_lng": [
+      0.3448,
+      98.6636
+    ],
+    "magnitude": 5.1,
+    "title": "M 5.1 - 99 km ESE of Teluk Dalam, Indonesia",
+    "time_ut": 1764681384,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rf1l"
+  },
+  {
+    "net": "us",
+    "code": "7000re3f",
+    "lat_lng": [
+      1.1988,
+      96.8545
+    ],
+    "magnitude": 4.8,
+    "title": "M 4.8 - 85 km W of Gunungsitoli, Indonesia",
+    "time_ut": 1764221564,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000re3f"
+  },
+  {
+    "net": "us",
+    "code": "7000re2g",
+    "lat_lng": [
+      2.6921,
+      96.0266
+    ],
+    "magnitude": 6.6,
+    "title": "M 6.6 - 45 km WNW of Sinabang, Indonesia",
+    "time_ut": 1764219386,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000re2g"
+  },
+  {
+    "net": "us",
+    "code": "7000rdzw",
+    "lat_lng": [
+      0.725,
+      96.7871
+    ],
+    "magnitude": 5,
+    "title": "M 5.0 - 111 km SW of Gunungsitoli, Indonesia",
+    "time_ut": 1764186863,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rdzw"
+  },
+  {
+    "net": "us",
+    "code": "7000rdvf",
+    "lat_lng": [
+      2.4703,
+      98.9235
+    ],
+    "magnitude": 4.9,
+    "title": "M 4.9 - 21 km SSE of Tomok Bolon, Indonesia",
+    "time_ut": 1764134918,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rdvf"
+  },
+  {
+    "net": "us",
+    "code": "6000rq0k",
+    "lat_lng": [
+      -3.4155,
+      68.2746
+    ],
+    "magnitude": 4.8,
+    "title": "M 4.8 - Chagos Archipelago region",
+    "time_ut": 1763947357,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rq0k"
+  },
+  {
+    "net": "us",
+    "code": "6000rpwk",
+    "lat_lng": [
+      13.3595,
+      95.8101
+    ],
+    "magnitude": 5.3,
+    "title": "M 5.3 - 269 km WSW of Dawei, Burma (Myanmar)",
+    "time_ut": 1763872762,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rpwk"
+  },
+  {
+    "net": "us",
+    "code": "6000rpg5",
+    "lat_lng": [
+      2.8494,
+      95.6013
+    ],
+    "magnitude": 4.7,
+    "title": "M 4.7 - 95 km WNW of Sinabang, Indonesia",
+    "time_ut": 1763673083,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rpg5"
+  },
+  {
+    "net": "us",
+    "code": "7000rf37",
+    "lat_lng": [
+      4.6571,
+      95.3103
+    ],
+    "magnitude": 4.5,
+    "title": "M 4.5 - 97 km S of Banda Aceh, Indonesia",
+    "time_ut": 1763064438,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rf37"
+  },
+  {
+    "net": "us",
+    "code": "7000regt",
+    "lat_lng": [
+      -4.5677,
+      102.7394
+    ],
+    "magnitude": 4.2,
+    "title": "M 4.2 - 82 km SW of Pagar Alam, Indonesia",
+    "time_ut": 1762898136,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000regt"
+  },
+  {
+    "net": "us",
+    "code": "6000rmnf",
+    "lat_lng": [
+      8.0905,
+      91.8312
+    ],
+    "magnitude": 4.5,
+    "title": "M 4.5 - Nicobar Islands, India region",
+    "time_ut": 1762805805,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rmnf"
+  },
+  {
+    "net": "us",
+    "code": "6000rmdj",
+    "lat_lng": [
+      12.4982,
+      93.7507
+    ],
+    "magnitude": 5.5,
+    "title": "M 5.5 - 142 km NE of Port Blair, India",
+    "time_ut": 1762670311,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rmdj"
+  },
+  {
+    "net": "us",
+    "code": "7000recq",
+    "lat_lng": [
+      17.6627,
+      60.213
+    ],
+    "magnitude": 4.3,
+    "title": "M 4.3 - Owen Fracture Zone region",
+    "time_ut": 1762669103,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000recq"
+  },
+  {
+    "net": "us",
+    "code": "7000rec4",
+    "lat_lng": [
+      7.5427,
+      94.501
+    ],
+    "magnitude": 4.4,
+    "title": "M 4.4 - 203 km NNW of Sabang, Indonesia",
+    "time_ut": 1762656827,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rec4"
+  },
+  {
+    "net": "us",
+    "code": "6000rkyv",
+    "lat_lng": [
+      3.9256,
+      95.869
+    ],
+    "magnitude": 4.9,
+    "title": "M 4.9 - 37 km SW of Meulaboh, Indonesia",
+    "time_ut": 1762030809,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rkyv"
+  },
+  {
+    "net": "us",
+    "code": "6000rpcy",
+    "lat_lng": [
+      1.3077,
+      98.8548
+    ],
+    "magnitude": 4.1,
+    "title": "M 4.1 - 47 km W of Padangsidempuan, Indonesia",
+    "time_ut": 1761956648,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rpcy"
+  },
+  {
+    "net": "us",
+    "code": "6000rny3",
+    "lat_lng": [
+      2.2866,
+      96.2234
+    ],
+    "magnitude": 4.2,
+    "title": "M 4.2 - 27 km SW of Sinabang, Indonesia",
+    "time_ut": 1761616040,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rny3"
+  },
+  {
+    "net": "us",
+    "code": "6000rny1",
+    "lat_lng": [
+      0.4907,
+      67.2876
+    ],
+    "magnitude": 4.4,
+    "title": "M 4.4 - Carlsberg Ridge",
+    "time_ut": 1761611521,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rny1"
+  },
+  {
+    "net": "us",
+    "code": "6000rjtw",
+    "lat_lng": [
+      4.9458,
+      95.9794
+    ],
+    "magnitude": 5.1,
+    "title": "M 5.1 - 45 km SW of Reuleuet, Indonesia",
+    "time_ut": 1761608113,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rjtw"
+  },
+  {
+    "net": "us",
+    "code": "6000rnt1",
+    "lat_lng": [
+      6.4695,
+      93.6271
+    ],
+    "magnitude": 4.1,
+    "title": "M 4.1 - 197 km WNW of Sabang, Indonesia",
+    "time_ut": 1761553373,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rnt1"
+  },
+  {
+    "net": "us",
+    "code": "6000rjdv",
+    "lat_lng": [
+      4.412,
+      96.5767
+    ],
+    "magnitude": 4.6,
+    "title": "M 4.6 - 58 km ENE of Meulaboh, Indonesia",
+    "time_ut": 1761368186,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rjdv"
+  },
+  {
+    "net": "us",
+    "code": "6000riui",
+    "lat_lng": [
+      -4.5589,
+      102.77
+    ],
+    "magnitude": 4.8,
+    "title": "M 4.8 - 79 km SW of Pagar Alam, Indonesia",
+    "time_ut": 1761215845,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000riui"
+  },
+  {
+    "net": "us",
+    "code": "6000rinn",
+    "lat_lng": [
+      5.2907,
+      94.8423
+    ],
+    "magnitude": 4.9,
+    "title": "M 4.9 - 61 km WSW of Banda Aceh, Indonesia",
+    "time_ut": 1761145677,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rinn"
+  },
+  {
+    "net": "us",
+    "code": "6000riil",
+    "lat_lng": [
+      -4.6036,
+      104.5146
+    ],
+    "magnitude": 4.6,
+    "title": "M 4.6 - 47 km WNW of Kotabumi, Indonesia",
+    "time_ut": 1761073380,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000riil"
+  },
+  {
+    "net": "us",
+    "code": "6000rm48",
+    "lat_lng": [
+      -0.337,
+      99.2406
+    ],
+    "magnitude": 4.1,
+    "title": "M 4.1 - 102 km WNW of Pariaman, Indonesia",
+    "time_ut": 1760780106,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rm48"
+  },
+  {
+    "net": "us",
     "code": "7000jvl3",
     "lat_lng": [
       -0.8082,
