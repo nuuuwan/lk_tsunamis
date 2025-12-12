@@ -13,6 +13,8 @@ log = Log("Earthquake")
 
 @dataclass
 class Earthquake:
+    net: str
+    code: str
     lat_lng: tuple[float, float]
     magnitude: float
     title: str
@@ -23,11 +25,10 @@ class Earthquake:
     DIR_DATA_EARTHQUAKES = os.path.join(DIR_DATA, "earthquakes")
 
     @property
-    def title_id(self) -> str:
-        s = self.title.lower()
-        s = re.sub(r"[^a-zA-Z0-9]+", " ", s)
-        s = re.sub(r"\s+", "_", s).strip("_")
-        return s
+    def id(self) -> str:
+        t = Time(self.time_ut)
+        year_month_day = TimeFormat("%Y-%m-%d").format(t)
+        return f"{year_month_day}.{self.net}.{self.code}"
 
     @property
     def time_id(self) -> str:
@@ -81,15 +82,19 @@ class Earthquake:
 
     @classmethod
     def from_geojson_feature(cls, feature: dict):
+        properties = feature["properties"]
+        coordinates = feature["geometry"]["coordinates"]
         return cls(
+            net=properties["net"],
+            code=properties["code"],
             lat_lng=(
-                feature["geometry"]["coordinates"][1],
-                feature["geometry"]["coordinates"][0],
+                coordinates[1],
+                coordinates[0],
             ),
-            magnitude=feature["properties"]["mag"],
-            title=feature["properties"]["title"],
-            time_ut=feature["properties"]["time"] // 1000,
-            url=feature["properties"]["url"],
+            magnitude=properties["mag"],
+            title=properties["title"],
+            time_ut=properties["time"] // 1000,
+            url=properties["url"],
         )
 
     @classmethod
@@ -160,9 +165,7 @@ class Earthquake:
         )
 
         for e in earthquakes:
-            date_time = TimeFormat("%Y-%m-%d %H:%M:%S").format(
-                Time(e.time_ut)
-            )
+            date_time = TimeFormat("%Y-%m-%d %H:%M:%S").format(Time(e.time_ut))
             location = e.title.replace(f"M {e.magnitude} - ", "")
             lat, lng = e.lat_lng
             lat_dir = "N" if lat >= 0 else "S"
