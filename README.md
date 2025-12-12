@@ -19,6 +19,7 @@
 | 🟡 `2025-11-27 01:24:23` | 5.0 | [M 5.0 - 111 km SW of Gunungsitoli, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rdzw) | [0.7250° N, 96.7871° E](https://www.google.com/maps?q=0.725,96.7871) | 1,944 km |
 | ⚪️ `2025-11-26 10:58:38` | 4.9 | [21 km SSE of Tomok Bolon, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rdvf) | [2.4703° N, 98.9235° E](https://www.google.com/maps?q=2.4703,98.9235) | 2,097 km |
 | ⚪️ `2025-11-24 06:52:37` | 4.8 | [Chagos Archipelago region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000rq0k) | [3.4155° S, 68.2746° E](https://www.google.com/maps?q=-3.4155,68.2746) | 1,870 km |
+
 ### Most Severe Earthquakes
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
@@ -33,6 +34,7 @@
 | 🟠 `2000-06-04 22:28:26` | 7.9 | [103 km S of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/usp0009txv) | [4.7210° S, 102.0870° E](https://www.google.com/maps?q=-4.721,102.087) | 2,748 km |
 | 🟠 `2016-03-02 18:19:48` | 7.8 | [southwest of Sumatra, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us10004u1y) | [4.9521° S, 94.3299° E](https://www.google.com/maps?q=-4.9521,94.3299) | 2,073 km |
 | 🟠 `2010-10-25 20:12:22` | 7.8 | [215 km SW of Sungai Penuh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/usp000hnj4) | [3.4870° S, 100.0820° E](https://www.google.com/maps?q=-3.487,100.082) | 2,487 km |
+
 ![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
 ![MadeWith](https://img.shields.io/badge/made_with-python-blue)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

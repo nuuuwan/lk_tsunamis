@@ -192,6 +192,8 @@ class Earthquake:
             )
             lines.append(line)
 
+        lines.append("")
+
         return lines
 
     @classmethod
