@@ -24,7 +24,7 @@ class Earthquake:
     DIR_DATA_EARTHQUAKES = os.path.join(DIR_DATA, "earthquakes")
 
     @property
-    def id(self) -> str:
+    def earthquake_id(self) -> str:
         t = Time(self.time_ut)
         year_month_day = TimeFormat("%Y-%m-%d").format(t)
         return f"{year_month_day}.{self.net}.{self.code}"
@@ -45,7 +45,7 @@ class Earthquake:
 
     @property
     def file_path(self) -> str:
-        file_name = f"{self.time_id}.{self.title_id}.json"
+        file_name = f"{self.time_id}.{self.earthquake_id}.json"
         return os.path.join(self.dir_parent_data, file_name)
 
     @property
@@ -164,9 +164,7 @@ class Earthquake:
         )
 
         for e in earthquakes:
-            date_time = TimeFormat("%Y-%m-%d %H:%M:%S").format(
-                Time(e.time_ut)
-            )
+            date_time = TimeFormat("%Y-%m-%d %H:%M:%S").format(Time(e.time_ut))
             location = e.title.replace(f"M {e.magnitude} - ", "")
             lat, lng = e.lat_lng
             lat_dir = "N" if lat >= 0 else "S"
