@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000rur4",
+    "lat_lng": [
+      -3.2636,
+      101.3136
+    ],
+    "magnitude": 5.1,
+    "title": "M 5.1 - 121 km WNW of Bengkulu, Indonesia",
+    "time_ut": 1765673894,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rur4"
+  },
+  {
+    "net": "us",
     "code": "6000rtug",
     "lat_lng": [
       5.3043,

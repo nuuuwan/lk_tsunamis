@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--10_13:12:55-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--14_06:28:14-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| 🟡 `2025-12-14 06:28:14` | 5.1 | [121 km WNW of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000rur4) | [3.2636° S, 101.3136° E](https://www.google.com/maps?q=-3.2636,101.3136) | 2,593 km |
 | ⚪️ `2025-12-10 13:12:55` | 4.9 | [111 km WSW of Banda Aceh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000rtug) | [5.3043° N, 94.3584° E](https://www.google.com/maps?q=5.3043,94.3584) | 1,528 km |
 | ⚪️ `2025-12-10 01:18:27` | 4.9 | [15 km SW of Sijunjung, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000rtqb) | [0.7828° S, 100.8660° E](https://www.google.com/maps?q=-0.7828,100.866) | 2,427 km |
 | 🟡 `2025-12-09 12:32:53` | 5.2 | [43 km W of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000rtkx) | [2.5415° N, 95.9922° E](https://www.google.com/maps?q=2.5415,95.9922) | 1,786 km |
@@ -18,7 +19,6 @@
 | 🟠 `2025-11-27 10:26:26` | 6.6 | [45 km WNW of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000re2g) | [2.6921° N, 96.0266° E](https://www.google.com/maps?q=2.6921,96.0266) | 1,784 km |
 | 🟡 `2025-11-27 01:24:23` | 5.0 | [M 5.0 - 111 km SW of Gunungsitoli, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rdzw) | [0.7250° N, 96.7871° E](https://www.google.com/maps?q=0.725,96.7871) | 1,944 km |
 | ⚪️ `2025-11-26 10:58:38` | 4.9 | [21 km SSE of Tomok Bolon, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rdvf) | [2.4703° N, 98.9235° E](https://www.google.com/maps?q=2.4703,98.9235) | 2,097 km |
-| ⚪️ `2025-11-24 06:52:37` | 4.8 | [Chagos Archipelago region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000rq0k) | [3.4155° S, 68.2746° E](https://www.google.com/maps?q=-3.4155,68.2746) | 1,870 km |
 
 ### Most Severe Earthquakes
 
