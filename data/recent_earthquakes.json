@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000rvnf",
+    "lat_lng": [
+      2.0438,
+      99.0865
+    ],
+    "magnitude": 4.4,
+    "title": "M 4.4 - 47 km NE of Sibolga, Indonesia",
+    "time_ut": 1766054705,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rvnf"
+  },
+  {
+    "net": "us",
     "code": "6000rur4",
     "lat_lng": [
       -3.2636,
@@ -106,17 +118,5 @@
     "title": "M 5.0 - 111 km SW of Gunungsitoli, Indonesia",
     "time_ut": 1764186863,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rdzw"
-  },
-  {
-    "net": "us",
-    "code": "7000rdvf",
-    "lat_lng": [
-      2.4703,
-      98.9235
-    ],
-    "magnitude": 4.9,
-    "title": "M 4.9 - 21 km SSE of Tomok Bolon, Indonesia",
-    "time_ut": 1764134918,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rdvf"
   }
 ]
