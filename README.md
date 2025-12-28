@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--24_11:00:31-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--28_07:45:50-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,8 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| ⚪️ `2025-12-28 07:45:50` | 4.6 | [43 km NW of Bukittinggi, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rl54) | [0.0529° S, 100.0718° E](https://www.google.com/maps?q=-0.0529,100.0718) | 2,314 km |
+| ⚪️ `2025-12-28 07:41:39` | 4.6 | [34 km NW of Bukittinggi, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rl53) | [0.1226° S, 100.1207° E](https://www.google.com/maps?q=-0.1226,100.1207) | 2,322 km |
 | ⚪️ `2025-12-24 11:00:31` | 4.8 | [92 km SSE of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rkj2) | [4.6197° S, 102.4545° E](https://www.google.com/maps?q=-4.6197,102.4545) | 2,778 km |
 | ⚪️ `2025-12-18 16:15:05` | 4.4 | [47 km NE of Sibolga, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000rvnf) | [2.0438° N, 99.0865° E](https://www.google.com/maps?q=2.0438,99.0865) | 2,129 km |
 | 🟡 `2025-12-14 06:28:14` | 5.1 | [121 km WNW of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000rur4) | [3.2636° S, 101.3136° E](https://www.google.com/maps?q=-3.2636,101.3136) | 2,593 km |
@@ -17,8 +19,6 @@
 | 🟡 `2025-12-09 12:32:53` | 5.2 | [43 km W of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000rtkx) | [2.5415° N, 95.9922° E](https://www.google.com/maps?q=2.5415,95.9922) | 1,786 km |
 | ⚪️ `2025-12-08 23:04:43` | 4.2 | [45 km WNW of Muara Bungo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000rtfw) | [1.2960° S, 101.7557° E](https://www.google.com/maps?q=-1.296,101.7557) | 2,540 km |
 | 🟡 `2025-12-02 18:46:24` | 5.1 | [99 km ESE of Teluk Dalam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rf1l) | [0.3448° N, 98.6636° E](https://www.google.com/maps?q=0.3448,98.6636) | 2,152 km |
-| ⚪️ `2025-11-27 11:02:44` | 4.8 | [85 km W of Gunungsitoli, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000re3f) | [1.1988° N, 96.8545° E](https://www.google.com/maps?q=1.1988,96.8545) | 1,930 km |
-| 🟠 `2025-11-27 10:26:26` | 6.6 | [45 km WNW of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000re2g) | [2.6921° N, 96.0266° E](https://www.google.com/maps?q=2.6921,96.0266) | 1,784 km |
 
 ### Most Severe Earthquakes
 

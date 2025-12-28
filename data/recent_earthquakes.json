@@ -1,6 +1,30 @@
 [
   {
     "net": "us",
+    "code": "7000rl54",
+    "lat_lng": [
+      -0.0529,
+      100.0718
+    ],
+    "magnitude": 4.6,
+    "title": "M 4.6 - 43 km NW of Bukittinggi, Indonesia",
+    "time_ut": 1766888150,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rl54"
+  },
+  {
+    "net": "us",
+    "code": "7000rl53",
+    "lat_lng": [
+      -0.1226,
+      100.1207
+    ],
+    "magnitude": 4.6,
+    "title": "M 4.6 - 34 km NW of Bukittinggi, Indonesia",
+    "time_ut": 1766887899,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rl53"
+  },
+  {
+    "net": "us",
     "code": "7000rkj2",
     "lat_lng": [
       -4.6197,
@@ -94,29 +118,5 @@
     "title": "M 5.1 - 99 km ESE of Teluk Dalam, Indonesia",
     "time_ut": 1764681384,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rf1l"
-  },
-  {
-    "net": "us",
-    "code": "7000re3f",
-    "lat_lng": [
-      1.1988,
-      96.8545
-    ],
-    "magnitude": 4.8,
-    "title": "M 4.8 - 85 km W of Gunungsitoli, Indonesia",
-    "time_ut": 1764221564,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000re3f"
-  },
-  {
-    "net": "us",
-    "code": "7000re2g",
-    "lat_lng": [
-      2.6921,
-      96.0266
-    ],
-    "magnitude": 6.6,
-    "title": "M 6.6 - 45 km WNW of Sinabang, Indonesia",
-    "time_ut": 1764219386,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000re2g"
   }
 ]

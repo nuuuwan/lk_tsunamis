@@ -1,6 +1,30 @@
 [
   {
     "net": "us",
+    "code": "7000rl54",
+    "lat_lng": [
+      -0.0529,
+      100.0718
+    ],
+    "magnitude": 4.6,
+    "title": "M 4.6 - 43 km NW of Bukittinggi, Indonesia",
+    "time_ut": 1766888150,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rl54"
+  },
+  {
+    "net": "us",
+    "code": "7000rl53",
+    "lat_lng": [
+      -0.1226,
+      100.1207
+    ],
+    "magnitude": 4.6,
+    "title": "M 4.6 - 34 km NW of Bukittinggi, Indonesia",
+    "time_ut": 1766887899,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rl53"
+  },
+  {
+    "net": "us",
     "code": "7000rkj2",
     "lat_lng": [
       -4.6197,
