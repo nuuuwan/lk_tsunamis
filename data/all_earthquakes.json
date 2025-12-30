@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000rlim",
+    "lat_lng": [
+      4.6444,
+      96.8231
+    ],
+    "magnitude": 4.5,
+    "title": "M 4.5 - 63 km SSE of Bireun, Indonesia",
+    "time_ut": 1767102189,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rlim"
+  },
+  {
+    "net": "us",
     "code": "7000rl54",
     "lat_lng": [
       -0.0529,

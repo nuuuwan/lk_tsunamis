@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000rlim",
+    "lat_lng": [
+      4.6444,
+      96.8231
+    ],
+    "magnitude": 4.5,
+    "title": "M 4.5 - 63 km SSE of Bireun, Indonesia",
+    "time_ut": 1767102189,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rlim"
+  },
+  {
+    "net": "us",
     "code": "7000rl54",
     "lat_lng": [
       -0.0529,
@@ -106,17 +118,5 @@
     "title": "M 4.2 - 45 km WNW of Muara Bungo, Indonesia",
     "time_ut": 1765215283,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rtfw"
-  },
-  {
-    "net": "us",
-    "code": "7000rf1l",
-    "lat_lng": [
-      0.3448,
-      98.6636
-    ],
-    "magnitude": 5.1,
-    "title": "M 5.1 - 99 km ESE of Teluk Dalam, Indonesia",
-    "time_ut": 1764681384,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rf1l"
   }
 ]
