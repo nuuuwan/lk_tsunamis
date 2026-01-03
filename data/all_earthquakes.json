@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000rm8v",
+    "lat_lng": [
+      -3.139,
+      102.761
+    ],
+    "magnitude": 4.4,
+    "title": "M 4.4 - 20 km NNW of Lubuklinggau, Indonesia",
+    "time_ut": 1767435173,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rm8v"
+  },
+  {
+    "net": "us",
     "code": "7000rlim",
     "lat_lng": [
       4.6444,

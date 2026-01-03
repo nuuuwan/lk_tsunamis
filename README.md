@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--30_19:13:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--03_15:42:53-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| ⚪️ `2026-01-03 15:42:53` | 4.4 | [20 km NNW of Lubuklinggau, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rm8v) | [3.1390° S, 102.7610° E](https://www.google.com/maps?q=-3.139,102.761) | 2,729 km |
 | ⚪️ `2025-12-30 19:13:09` | 4.5 | [63 km SSE of Bireun, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rlim) | [4.6444° N, 96.8231° E](https://www.google.com/maps?q=4.6444,96.8231) | 1,810 km |
 | ⚪️ `2025-12-28 07:45:50` | 4.6 | [43 km NW of Bukittinggi, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rl54) | [0.0529° S, 100.0718° E](https://www.google.com/maps?q=-0.0529,100.0718) | 2,314 km |
 | ⚪️ `2025-12-28 07:41:39` | 4.6 | [34 km NW of Bukittinggi, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rl53) | [0.1226° S, 100.1207° E](https://www.google.com/maps?q=-0.1226,100.1207) | 2,322 km |
@@ -18,7 +19,6 @@
 | ⚪️ `2025-12-10 13:12:55` | 4.9 | [111 km WSW of Banda Aceh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000rtug) | [5.3043° N, 94.3584° E](https://www.google.com/maps?q=5.3043,94.3584) | 1,528 km |
 | ⚪️ `2025-12-10 01:18:27` | 4.9 | [15 km SW of Sijunjung, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000rtqb) | [0.7828° S, 100.8660° E](https://www.google.com/maps?q=-0.7828,100.866) | 2,427 km |
 | 🟡 `2025-12-09 12:32:53` | 5.2 | [43 km W of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000rtkx) | [2.5415° N, 95.9922° E](https://www.google.com/maps?q=2.5415,95.9922) | 1,786 km |
-| ⚪️ `2025-12-08 23:04:43` | 4.2 | [45 km WNW of Muara Bungo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000rtfw) | [1.2960° S, 101.7557° E](https://www.google.com/maps?q=-1.296,101.7557) | 2,540 km |
 
 ### Most Severe Earthquakes
 
