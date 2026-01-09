@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000rnku",
+    "lat_lng": [
+      3.6458,
+      95.8719
+    ],
+    "magnitude": 4.8,
+    "title": "M 4.8 - 61 km SSW of Meulaboh, Indonesia",
+    "time_ut": 1767920042,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rnku"
+  },
+  {
+    "net": "us",
     "code": "7000rm8v",
     "lat_lng": [
       -3.139,

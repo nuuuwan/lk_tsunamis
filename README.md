@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--03_15:42:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--09_06:24:02-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| ⚪️ `2026-01-09 06:24:02` | 4.8 | [61 km SSW of Meulaboh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rnku) | [3.6458° N, 95.8719° E](https://www.google.com/maps?q=3.6458,95.8719) | 1,735 km |
 | ⚪️ `2026-01-03 15:42:53` | 4.4 | [20 km NNW of Lubuklinggau, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rm8v) | [3.1390° S, 102.7610° E](https://www.google.com/maps?q=-3.139,102.761) | 2,729 km |
 | ⚪️ `2025-12-30 19:13:09` | 4.5 | [63 km SSE of Bireun, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rlim) | [4.6444° N, 96.8231° E](https://www.google.com/maps?q=4.6444,96.8231) | 1,810 km |
 | ⚪️ `2025-12-28 07:45:50` | 4.6 | [43 km NW of Bukittinggi, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rl54) | [0.0529° S, 100.0718° E](https://www.google.com/maps?q=-0.0529,100.0718) | 2,314 km |
@@ -18,7 +19,6 @@
 | 🟡 `2025-12-14 06:28:14` | 5.1 | [121 km WNW of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000rur4) | [3.2636° S, 101.3136° E](https://www.google.com/maps?q=-3.2636,101.3136) | 2,593 km |
 | ⚪️ `2025-12-10 13:12:55` | 4.9 | [111 km WSW of Banda Aceh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000rtug) | [5.3043° N, 94.3584° E](https://www.google.com/maps?q=5.3043,94.3584) | 1,528 km |
 | ⚪️ `2025-12-10 01:18:27` | 4.9 | [15 km SW of Sijunjung, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000rtqb) | [0.7828° S, 100.8660° E](https://www.google.com/maps?q=-0.7828,100.866) | 2,427 km |
-| 🟡 `2025-12-09 12:32:53` | 5.2 | [43 km W of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000rtkx) | [2.5415° N, 95.9922° E](https://www.google.com/maps?q=2.5415,95.9922) | 1,786 km |
 
 ### Most Severe Earthquakes
 
