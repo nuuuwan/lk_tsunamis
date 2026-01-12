@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000rp8e",
+    "lat_lng": [
+      4.5298,
+      96.3271
+    ],
+    "magnitude": 4,
+    "title": "M 4.0 - 48 km NNE of Meulaboh, Indonesia",
+    "time_ut": 1768243838,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rp8e"
+  },
+  {
+    "net": "us",
     "code": "7000rnku",
     "lat_lng": [
       3.6458,

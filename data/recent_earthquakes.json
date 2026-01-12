@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000rp8e",
+    "lat_lng": [
+      4.5298,
+      96.3271
+    ],
+    "magnitude": 4,
+    "title": "M 4.0 - 48 km NNE of Meulaboh, Indonesia",
+    "time_ut": 1768243838,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rp8e"
+  },
+  {
+    "net": "us",
     "code": "7000rnku",
     "lat_lng": [
       3.6458,
@@ -106,17 +118,5 @@
     "title": "M 4.9 - 111 km WSW of Banda Aceh, Indonesia",
     "time_ut": 1765352575,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rtug"
-  },
-  {
-    "net": "us",
-    "code": "6000rtqb",
-    "lat_lng": [
-      -0.7828,
-      100.866
-    ],
-    "magnitude": 4.9,
-    "title": "M 4.9 - 15 km SW of Sijunjung, Indonesia",
-    "time_ut": 1765309707,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rtqb"
   }
 ]
