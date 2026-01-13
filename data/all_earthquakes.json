@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000rpai",
+    "lat_lng": [
+      -1.9122,
+      101.5989
+    ],
+    "magnitude": 4.5,
+    "title": "M 4.5 - 28 km NE of Sungai Penuh, Indonesia",
+    "time_ut": 1768260464,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpai"
+  },
+  {
+    "net": "us",
     "code": "7000rp8e",
     "lat_lng": [
       4.5298,
