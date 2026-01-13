@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000rpav",
+    "lat_lng": [
+      -4.7389,
+      102.6008
+    ],
+    "magnitude": 4.6,
+    "title": "M 4.6 - 106 km SW of Pagar Alam, Indonesia",
+    "time_ut": 1768267244,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpav"
+  },
+  {
+    "net": "us",
     "code": "7000rpai",
     "lat_lng": [
       -1.9122,
@@ -106,17 +118,5 @@
     "title": "M 4.4 - 47 km NE of Sibolga, Indonesia",
     "time_ut": 1766054705,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rvnf"
-  },
-  {
-    "net": "us",
-    "code": "6000rur4",
-    "lat_lng": [
-      -3.2636,
-      101.3136
-    ],
-    "magnitude": 5.1,
-    "title": "M 5.1 - 121 km WNW of Bengkulu, Indonesia",
-    "time_ut": 1765673894,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rur4"
   }
 ]
