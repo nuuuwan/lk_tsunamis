@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000rqbx",
+    "lat_lng": [
+      4.243,
+      97.499
+    ],
+    "magnitude": 4.3,
+    "title": "M 4.3 - 57 km WSW of Langsa, Indonesia",
+    "time_ut": 1768681419,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rqbx"
+  },
+  {
+    "net": "us",
     "code": "7000rpav",
     "lat_lng": [
       -4.7389,

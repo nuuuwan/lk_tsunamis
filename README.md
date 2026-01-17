@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--13_06:50:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--18_01:53:39-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| ⚪️ `2026-01-18 01:53:39` | 4.3 | [57 km WSW of Langsa, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rqbx) | [4.2430° N, 97.4990° E](https://www.google.com/maps?q=4.243,97.499) | 1,893 km |
 | ⚪️ `2026-01-13 06:50:44` | 4.6 | [106 km SW of Pagar Alam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpav) | [4.7389° S, 102.6008° E](https://www.google.com/maps?q=-4.7389,102.6008) | 2,798 km |
 | ⚪️ `2026-01-13 04:57:44` | 4.5 | [28 km NE of Sungai Penuh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpai) | [1.9122° S, 101.5989° E](https://www.google.com/maps?q=-1.9122,101.5989) | 2,553 km |
 | ⚪️ `2026-01-13 00:20:38` | 4.0 | [M 4.0 - 48 km NNE of Meulaboh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rp8e) | [4.5298° N, 96.3271° E](https://www.google.com/maps?q=4.5298,96.3271) | 1,759 km |
@@ -18,7 +19,6 @@
 | ⚪️ `2025-12-28 07:45:50` | 4.6 | [43 km NW of Bukittinggi, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rl54) | [0.0529° S, 100.0718° E](https://www.google.com/maps?q=-0.0529,100.0718) | 2,314 km |
 | ⚪️ `2025-12-28 07:41:39` | 4.6 | [34 km NW of Bukittinggi, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rl53) | [0.1226° S, 100.1207° E](https://www.google.com/maps?q=-0.1226,100.1207) | 2,322 km |
 | ⚪️ `2025-12-24 11:00:31` | 4.8 | [92 km SSE of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rkj2) | [4.6197° S, 102.4545° E](https://www.google.com/maps?q=-4.6197,102.4545) | 2,778 km |
-| ⚪️ `2025-12-18 16:15:05` | 4.4 | [47 km NE of Sibolga, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000rvnf) | [2.0438° N, 99.0865° E](https://www.google.com/maps?q=2.0438,99.0865) | 2,129 km |
 
 ### Most Severe Earthquakes
 

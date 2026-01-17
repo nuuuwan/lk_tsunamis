@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000rqbx",
+    "lat_lng": [
+      4.243,
+      97.499
+    ],
+    "magnitude": 4.3,
+    "title": "M 4.3 - 57 km WSW of Langsa, Indonesia",
+    "time_ut": 1768681419,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rqbx"
+  },
+  {
+    "net": "us",
     "code": "7000rpav",
     "lat_lng": [
       -4.7389,
@@ -106,17 +118,5 @@
     "title": "M 4.8 - 92 km SSE of Bengkulu, Indonesia",
     "time_ut": 1766554231,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rkj2"
-  },
-  {
-    "net": "us",
-    "code": "6000rvnf",
-    "lat_lng": [
-      2.0438,
-      99.0865
-    ],
-    "magnitude": 4.4,
-    "title": "M 4.4 - 47 km NE of Sibolga, Indonesia",
-    "time_ut": 1766054705,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rvnf"
   }
 ]
