@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000rql1",
+    "lat_lng": [
+      17.3474,
+      95.7827
+    ],
+    "magnitude": 4.4,
+    "title": "M 4.4 - 33 km S of Tharyarwady, Burma (Myanmar)",
+    "time_ut": 1768837437,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rql1"
+  },
+  {
+    "net": "us",
     "code": "7000rqjg",
     "lat_lng": [
       -2.6159,
@@ -106,17 +118,5 @@
     "title": "M 4.6 - 43 km NW of Bukittinggi, Indonesia",
     "time_ut": 1766888150,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rl54"
-  },
-  {
-    "net": "us",
-    "code": "7000rl53",
-    "lat_lng": [
-      -0.1226,
-      100.1207
-    ],
-    "magnitude": 4.6,
-    "title": "M 4.6 - 34 km NW of Bukittinggi, Indonesia",
-    "time_ut": 1766887899,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rl53"
   }
 ]
