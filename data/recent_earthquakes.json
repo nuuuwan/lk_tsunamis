@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000rqtc",
+    "lat_lng": [
+      4.278,
+      62.4666
+    ],
+    "magnitude": 5,
+    "title": "M 5.0 - Carlsberg Ridge",
+    "time_ut": 1768907679,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rqtc"
+  },
+  {
+    "net": "us",
     "code": "7000rql1",
     "lat_lng": [
       17.3474,
@@ -106,17 +118,5 @@
     "title": "M 4.5 - 63 km SSE of Bireun, Indonesia",
     "time_ut": 1767102189,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rlim"
-  },
-  {
-    "net": "us",
-    "code": "7000rl54",
-    "lat_lng": [
-      -0.0529,
-      100.0718
-    ],
-    "magnitude": 4.6,
-    "title": "M 4.6 - 43 km NW of Bukittinggi, Indonesia",
-    "time_ut": 1766888150,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rl54"
   }
 ]
