@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--20_21:55:23-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--27_19:50:05-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| ⚪️ `2026-01-27 19:50:05` | 4.7 | [164 km WSW of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000s4qb) | [4.6187° S, 101.0287° E](https://www.google.com/maps?q=-4.6187,101.0287) | 2,642 km |
 | ⚪️ `2026-01-20 21:55:23` | 4.4 | [82 km SW of Teluk Dalam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rqv2) | [0.0814° N, 97.2468° E](https://www.google.com/maps?q=0.0814,97.2468) | 2,021 km |
 | 🟡 `2026-01-20 16:44:39` | 5.0 | [M 5.0 - Carlsberg Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rqtc) | [4.2780° N, 62.4666° E](https://www.google.com/maps?q=4.278,62.4666) | 2,063 km |
 | ⚪️ `2026-01-19 21:13:57` | 4.4 | [33 km S of Tharyarwady, Burma (Myanmar)](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rql1) | [17.3474° N, 95.7827° E](https://www.google.com/maps?q=17.3474,95.7827) | 1,938 km |
@@ -18,7 +19,6 @@
 | ⚪️ `2026-01-13 04:57:44` | 4.5 | [28 km NE of Sungai Penuh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpai) | [1.9122° S, 101.5989° E](https://www.google.com/maps?q=-1.9122,101.5989) | 2,553 km |
 | ⚪️ `2026-01-13 00:20:38` | 4.0 | [M 4.0 - 48 km NNE of Meulaboh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rp8e) | [4.5298° N, 96.3271° E](https://www.google.com/maps?q=4.5298,96.3271) | 1,759 km |
 | ⚪️ `2026-01-09 06:24:02` | 4.8 | [61 km SSW of Meulaboh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rnku) | [3.6458° N, 95.8719° E](https://www.google.com/maps?q=3.6458,95.8719) | 1,735 km |
-| ⚪️ `2026-01-03 15:42:53` | 4.4 | [20 km NNW of Lubuklinggau, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rm8v) | [3.1390° S, 102.7610° E](https://www.google.com/maps?q=-3.139,102.761) | 2,729 km |
 
 ### Most Severe Earthquakes
 
