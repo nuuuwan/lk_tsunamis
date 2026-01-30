@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--31_02:17:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--31_04:33:36-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| ⚪️ `2026-01-31 04:33:36` | 4.9 | [35 km N of Lahat, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000s5n2) | [3.4693° S, 103.4918° E](https://www.google.com/maps?q=-3.4693,103.4918) | 2,818 km |
 | ⚪️ `2026-01-31 02:17:54` | 4.9 | [51 km W of Gunungsitoli, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000s5m0) | [1.3622° N, 97.1544° E](https://www.google.com/maps?q=1.3622,97.1544) | 1,954 km |
 | ⚪️ `2026-01-27 19:50:05` | 4.7 | [164 km WSW of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000s4qb) | [4.6187° S, 101.0287° E](https://www.google.com/maps?q=-4.6187,101.0287) | 2,642 km |
 | ⚪️ `2026-01-20 21:55:23` | 4.4 | [82 km SW of Teluk Dalam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rqv2) | [0.0814° N, 97.2468° E](https://www.google.com/maps?q=0.0814,97.2468) | 2,021 km |
@@ -18,7 +19,6 @@
 | ⚪️ `2026-01-18 01:53:39` | 4.3 | [57 km WSW of Langsa, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rqbx) | [4.2430° N, 97.4990° E](https://www.google.com/maps?q=4.243,97.499) | 1,893 km |
 | ⚪️ `2026-01-13 06:50:44` | 4.6 | [106 km SW of Pagar Alam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpav) | [4.7389° S, 102.6008° E](https://www.google.com/maps?q=-4.7389,102.6008) | 2,798 km |
 | ⚪️ `2026-01-13 04:57:44` | 4.5 | [28 km NE of Sungai Penuh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpai) | [1.9122° S, 101.5989° E](https://www.google.com/maps?q=-1.9122,101.5989) | 2,553 km |
-| ⚪️ `2026-01-13 00:20:38` | 4.0 | [M 4.0 - 48 km NNE of Meulaboh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rp8e) | [4.5298° N, 96.3271° E](https://www.google.com/maps?q=4.5298,96.3271) | 1,759 km |
 
 ### Most Severe Earthquakes
 
