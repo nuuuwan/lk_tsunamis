@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000s5m0",
+    "lat_lng": [
+      1.3622,
+      97.1544
+    ],
+    "magnitude": 4.9,
+    "title": "M 4.9 - 51 km W of Gunungsitoli, Indonesia",
+    "time_ut": 1769806074,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s5m0"
+  },
+  {
+    "net": "us",
     "code": "6000s4qb",
     "lat_lng": [
       -4.6187,

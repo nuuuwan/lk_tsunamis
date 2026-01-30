@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000s5m0",
+    "lat_lng": [
+      1.3622,
+      97.1544
+    ],
+    "magnitude": 4.9,
+    "title": "M 4.9 - 51 km W of Gunungsitoli, Indonesia",
+    "time_ut": 1769806074,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s5m0"
+  },
+  {
+    "net": "us",
     "code": "6000s4qb",
     "lat_lng": [
       -4.6187,
@@ -106,17 +118,5 @@
     "title": "M 4.0 - 48 km NNE of Meulaboh, Indonesia",
     "time_ut": 1768243838,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rp8e"
-  },
-  {
-    "net": "us",
-    "code": "7000rnku",
-    "lat_lng": [
-      3.6458,
-      95.8719
-    ],
-    "magnitude": 4.8,
-    "title": "M 4.8 - 61 km SSW of Meulaboh, Indonesia",
-    "time_ut": 1767920042,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rnku"
   }
 ]
