@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000s7gb",
+    "lat_lng": [
+      3.7808,
+      63.4017
+    ],
+    "magnitude": 5,
+    "title": "M 5.0 - Carlsberg Ridge",
+    "time_ut": 1770652777,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s7gb"
+  },
+  {
+    "net": "us",
     "code": "6000s5n2",
     "lat_lng": [
       -3.4693,
@@ -106,17 +118,5 @@
     "title": "M 4.6 - 106 km SW of Pagar Alam, Indonesia",
     "time_ut": 1768267244,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpav"
-  },
-  {
-    "net": "us",
-    "code": "7000rpai",
-    "lat_lng": [
-      -1.9122,
-      101.5989
-    ],
-    "magnitude": 4.5,
-    "title": "M 4.5 - 28 km NE of Sungai Penuh, Indonesia",
-    "time_ut": 1768260464,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpai"
   }
 ]
