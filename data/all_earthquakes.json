@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000s8gv",
+    "lat_lng": [
+      4.1527,
+      95.6294
+    ],
+    "magnitude": 4.7,
+    "title": "M 4.7 - 55 km W of Meulaboh, Indonesia",
+    "time_ut": 1770902053,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s8gv"
+  },
+  {
+    "net": "us",
     "code": "6000s7gb",
     "lat_lng": [
       3.7808,

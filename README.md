@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--09_21:29:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--12_18:44:13-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| ⚪️ `2026-02-12 18:44:13` | 4.7 | [55 km W of Meulaboh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000s8gv) | [4.1527° N, 95.6294° E](https://www.google.com/maps?q=4.1527,95.6294) | 1,694 km |
 | 🟡 `2026-02-09 21:29:37` | 5.0 | [M 5.0 - Carlsberg Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000s7gb) | [3.7808° N, 63.4017° E](https://www.google.com/maps?q=3.7808,63.4017) | 1,974 km |
 | ⚪️ `2026-01-31 04:33:36` | 4.9 | [35 km N of Lahat, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000s5n2) | [3.4693° S, 103.4918° E](https://www.google.com/maps?q=-3.4693,103.4918) | 2,818 km |
 | ⚪️ `2026-01-31 02:17:54` | 4.9 | [51 km W of Gunungsitoli, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000s5m0) | [1.3622° N, 97.1544° E](https://www.google.com/maps?q=1.3622,97.1544) | 1,954 km |
@@ -18,7 +19,6 @@
 | ⚪️ `2026-01-19 21:13:57` | 4.4 | [33 km S of Tharyarwady, Burma (Myanmar)](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rql1) | [17.3474° N, 95.7827° E](https://www.google.com/maps?q=17.3474,95.7827) | 1,938 km |
 | 🟡 `2026-01-19 16:32:49` | 5.0 | [M 5.0 - 102 km NNW of Curup, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rqjg) | [2.6159° S, 102.1725° E](https://www.google.com/maps?q=-2.6159,102.1725) | 2,645 km |
 | ⚪️ `2026-01-18 01:53:39` | 4.3 | [57 km WSW of Langsa, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rqbx) | [4.2430° N, 97.4990° E](https://www.google.com/maps?q=4.243,97.499) | 1,893 km |
-| ⚪️ `2026-01-13 06:50:44` | 4.6 | [106 km SW of Pagar Alam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpav) | [4.7389° S, 102.6008° E](https://www.google.com/maps?q=-4.7389,102.6008) | 2,798 km |
 
 ### Most Severe Earthquakes
 
