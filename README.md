@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--15_11:44:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--16_11:30:39-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| 🟡 `2026-02-16 11:30:39` | 5.0 | [M 5.0 - 97 km WNW of Pariaman, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000s9gm) | [0.4327° S, 99.2638° E](https://www.google.com/maps?q=-0.4327,99.2638) | 2,248 km |
 | 🟡 `2026-02-15 11:44:42` | 5.0 | [M 5.0 - 62 km SSE of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000s9ci) | [4.3562° S, 102.3859° E](https://www.google.com/maps?q=-4.3562,102.3859) | 2,756 km |
 | ⚪️ `2026-02-12 18:44:13` | 4.7 | [55 km W of Meulaboh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000s8gv) | [4.1527° N, 95.6294° E](https://www.google.com/maps?q=4.1527,95.6294) | 1,694 km |
 | 🟡 `2026-02-09 21:29:37` | 5.0 | [M 5.0 - Carlsberg Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000s7gb) | [3.7808° N, 63.4017° E](https://www.google.com/maps?q=3.7808,63.4017) | 1,974 km |
@@ -18,7 +19,6 @@
 | ⚪️ `2026-01-20 21:55:23` | 4.4 | [82 km SW of Teluk Dalam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rqv2) | [0.0814° N, 97.2468° E](https://www.google.com/maps?q=0.0814,97.2468) | 2,021 km |
 | 🟡 `2026-01-20 16:44:39` | 5.0 | [M 5.0 - Carlsberg Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rqtc) | [4.2780° N, 62.4666° E](https://www.google.com/maps?q=4.278,62.4666) | 2,063 km |
 | ⚪️ `2026-01-19 21:13:57` | 4.4 | [33 km S of Tharyarwady, Burma (Myanmar)](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rql1) | [17.3474° N, 95.7827° E](https://www.google.com/maps?q=17.3474,95.7827) | 1,938 km |
-| 🟡 `2026-01-19 16:32:49` | 5.0 | [M 5.0 - 102 km NNW of Curup, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rqjg) | [2.6159° S, 102.1725° E](https://www.google.com/maps?q=-2.6159,102.1725) | 2,645 km |
 
 ### Most Severe Earthquakes
 

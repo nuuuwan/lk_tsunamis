@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000s9gm",
+    "lat_lng": [
+      -0.4327,
+      99.2638
+    ],
+    "magnitude": 5,
+    "title": "M 5.0 - 97 km WNW of Pariaman, Indonesia",
+    "time_ut": 1771221639,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s9gm"
+  },
+  {
+    "net": "us",
     "code": "6000s9ci",
     "lat_lng": [
       -4.3562,
@@ -106,17 +118,5 @@
     "title": "M 4.4 - 33 km S of Tharyarwady, Burma (Myanmar)",
     "time_ut": 1768837437,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rql1"
-  },
-  {
-    "net": "us",
-    "code": "7000rqjg",
-    "lat_lng": [
-      -2.6159,
-      102.1725
-    ],
-    "magnitude": 5,
-    "title": "M 5.0 - 102 km NNW of Curup, Indonesia",
-    "time_ut": 1768820569,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rqjg"
   }
 ]
