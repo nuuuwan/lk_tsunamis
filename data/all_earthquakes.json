@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000sayu",
+    "lat_lng": [
+      11.6818,
+      91.6573
+    ],
+    "magnitude": 4.7,
+    "title": "M 4.7 - 115 km W of Bamboo Flat, India",
+    "time_ut": 1771822931,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sayu"
+  },
+  {
+    "net": "us",
     "code": "6000sasp",
     "lat_lng": [
       -0.6712,

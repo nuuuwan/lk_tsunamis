@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000sayu",
+    "lat_lng": [
+      11.6818,
+      91.6573
+    ],
+    "magnitude": 4.7,
+    "title": "M 4.7 - 115 km W of Bamboo Flat, India",
+    "time_ut": 1771822931,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sayu"
+  },
+  {
+    "net": "us",
     "code": "6000sasp",
     "lat_lng": [
       -0.6712,
@@ -106,17 +118,5 @@
     "title": "M 4.4 - 82 km SW of Teluk Dalam, Indonesia",
     "time_ut": 1768926323,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rqv2"
-  },
-  {
-    "net": "us",
-    "code": "7000rqtc",
-    "lat_lng": [
-      4.278,
-      62.4666
-    ],
-    "magnitude": 5,
-    "title": "M 5.0 - Carlsberg Ridge",
-    "time_ut": 1768907679,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rqtc"
   }
 ]

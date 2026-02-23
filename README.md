@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--22_21:05:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--23_10:32:11-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| ⚪️ `2026-02-23 10:32:11` | 4.7 | [115 km W of Bamboo Flat, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sayu) | [11.6818° N, 91.6573° E](https://www.google.com/maps?q=11.6818,91.6573) | 1,266 km |
 | 🟡 `2026-02-22 21:05:41` | 5.0 | [M 5.0 - 95 km W of Pariaman, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sasp) | [0.6712° S, 99.2601° E](https://www.google.com/maps?q=-0.6712,99.2601) | 2,259 km |
 | 🟡 `2026-02-16 11:30:39` | 5.0 | [M 5.0 - 97 km WNW of Pariaman, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000s9gm) | [0.4327° S, 99.2638° E](https://www.google.com/maps?q=-0.4327,99.2638) | 2,248 km |
 | 🟡 `2026-02-15 11:44:42` | 5.0 | [M 5.0 - 62 km SSE of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000s9ci) | [4.3562° S, 102.3859° E](https://www.google.com/maps?q=-4.3562,102.3859) | 2,756 km |
@@ -18,7 +19,6 @@
 | ⚪️ `2026-01-31 02:17:54` | 4.9 | [51 km W of Gunungsitoli, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000s5m0) | [1.3622° N, 97.1544° E](https://www.google.com/maps?q=1.3622,97.1544) | 1,954 km |
 | ⚪️ `2026-01-27 19:50:05` | 4.7 | [164 km WSW of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000s4qb) | [4.6187° S, 101.0287° E](https://www.google.com/maps?q=-4.6187,101.0287) | 2,642 km |
 | ⚪️ `2026-01-20 21:55:23` | 4.4 | [82 km SW of Teluk Dalam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rqv2) | [0.0814° N, 97.2468° E](https://www.google.com/maps?q=0.0814,97.2468) | 2,021 km |
-| 🟡 `2026-01-20 16:44:39` | 5.0 | [M 5.0 - Carlsberg Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000rqtc) | [4.2780° N, 62.4666° E](https://www.google.com/maps?q=4.278,62.4666) | 2,063 km |
 
 ### Most Severe Earthquakes
 
