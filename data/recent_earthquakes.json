@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000s1ln",
+    "lat_lng": [
+      2.0344,
+      96.7729
+    ],
+    "magnitude": 6.1,
+    "title": "M 6.1 - 65 km SE of Sinabang, Indonesia",
+    "time_ut": 1772513807,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s1ln"
+  },
+  {
+    "net": "us",
     "code": "7000s09j",
     "lat_lng": [
       -0.3152,
@@ -106,17 +118,5 @@
     "title": "M 4.9 - 51 km W of Gunungsitoli, Indonesia",
     "time_ut": 1769806074,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s5m0"
-  },
-  {
-    "net": "us",
-    "code": "6000s4qb",
-    "lat_lng": [
-      -4.6187,
-      101.0287
-    ],
-    "magnitude": 4.7,
-    "title": "M 4.7 - 164 km WSW of Bengkulu, Indonesia",
-    "time_ut": 1769523605,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s4qb"
   }
 ]
