@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000s2u5",
+    "lat_lng": [
+      -2.8756,
+      101.6747
+    ],
+    "magnitude": 5.2,
+    "title": "M 5.2 - 95 km SSE of Sungai Penuh, Indonesia",
+    "time_ut": 1772902723,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s2u5"
+  },
+  {
+    "net": "us",
     "code": "7000s1ln",
     "lat_lng": [
       2.0344,
@@ -106,17 +118,5 @@
     "title": "M 4.9 - 35 km N of Lahat, Indonesia",
     "time_ut": 1769814216,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s5n2"
-  },
-  {
-    "net": "us",
-    "code": "6000s5m0",
-    "lat_lng": [
-      1.3622,
-      97.1544
-    ],
-    "magnitude": 4.9,
-    "title": "M 4.9 - 51 km W of Gunungsitoli, Indonesia",
-    "time_ut": 1769806074,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s5m0"
   }
 ]
