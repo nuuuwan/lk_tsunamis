@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000s2xx",
+    "lat_lng": [
+      2.0328,
+      96.5387
+    ],
+    "magnitude": 5.2,
+    "title": "M 5.2 - 52 km SSE of Sinabang, Indonesia",
+    "time_ut": 1772949906,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s2xx"
+  },
+  {
+    "net": "us",
     "code": "7000s2u5",
     "lat_lng": [
       -2.8756,

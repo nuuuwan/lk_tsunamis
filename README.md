@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--07_22:28:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--08_11:35:06-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| 🟡 `2026-03-08 11:35:06` | 5.2 | [52 km SSE of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000s2xx) | [2.0328° N, 96.5387° E](https://www.google.com/maps?q=2.0328,96.5387) | 1,863 km |
 | 🟡 `2026-03-07 22:28:43` | 5.2 | [95 km SSE of Sungai Penuh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000s2u5) | [2.8756° S, 101.6747° E](https://www.google.com/maps?q=-2.8756,101.6747) | 2,609 km |
 | 🟡 `2026-03-03 10:26:47` | 6.1 | [65 km SE of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000s1ln) | [2.0344° N, 96.7729° E](https://www.google.com/maps?q=2.0344,96.7729) | 1,887 km |
 | 🟡 `2026-02-25 23:19:32` | 5.0 | [M 5.0 - 109 km WNW of Pariaman, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000s09j) | [0.3152° S, 99.1819° E](https://www.google.com/maps?q=-0.3152,99.1819) | 2,235 km |
@@ -18,7 +19,6 @@
 | 🟡 `2026-02-15 11:44:42` | 5.0 | [M 5.0 - 62 km SSE of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000s9ci) | [4.3562° S, 102.3859° E](https://www.google.com/maps?q=-4.3562,102.3859) | 2,756 km |
 | ⚪️ `2026-02-12 18:44:13` | 4.7 | [55 km W of Meulaboh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000s8gv) | [4.1527° N, 95.6294° E](https://www.google.com/maps?q=4.1527,95.6294) | 1,694 km |
 | 🟡 `2026-02-09 21:29:37` | 5.0 | [M 5.0 - Carlsberg Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000s7gb) | [3.7808° N, 63.4017° E](https://www.google.com/maps?q=3.7808,63.4017) | 1,974 km |
-| ⚪️ `2026-01-31 04:33:36` | 4.9 | [35 km N of Lahat, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000s5n2) | [3.4693° S, 103.4918° E](https://www.google.com/maps?q=-3.4693,103.4918) | 2,818 km |
 
 ### Most Severe Earthquakes
 

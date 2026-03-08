@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000s2xx",
+    "lat_lng": [
+      2.0328,
+      96.5387
+    ],
+    "magnitude": 5.2,
+    "title": "M 5.2 - 52 km SSE of Sinabang, Indonesia",
+    "time_ut": 1772949906,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s2xx"
+  },
+  {
+    "net": "us",
     "code": "7000s2u5",
     "lat_lng": [
       -2.8756,
@@ -106,17 +118,5 @@
     "title": "M 5.0 - Carlsberg Ridge",
     "time_ut": 1770652777,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s7gb"
-  },
-  {
-    "net": "us",
-    "code": "6000s5n2",
-    "lat_lng": [
-      -3.4693,
-      103.4918
-    ],
-    "magnitude": 4.9,
-    "title": "M 4.9 - 35 km N of Lahat, Indonesia",
-    "time_ut": 1769814216,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s5n2"
   }
 ]
