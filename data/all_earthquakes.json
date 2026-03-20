@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000sht8",
+    "lat_lng": [
+      2.2408,
+      96.1171
+    ],
+    "magnitude": 4.9,
+    "title": "M 4.9 - 39 km SW of Sinabang, Indonesia",
+    "time_ut": 1774009689,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sht8"
+  },
+  {
+    "net": "us",
     "code": "7000s2xx",
     "lat_lng": [
       2.0328,

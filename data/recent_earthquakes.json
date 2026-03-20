@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000sht8",
+    "lat_lng": [
+      2.2408,
+      96.1171
+    ],
+    "magnitude": 4.9,
+    "title": "M 4.9 - 39 km SW of Sinabang, Indonesia",
+    "time_ut": 1774009689,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sht8"
+  },
+  {
+    "net": "us",
     "code": "7000s2xx",
     "lat_lng": [
       2.0328,
@@ -106,17 +118,5 @@
     "title": "M 4.7 - 55 km W of Meulaboh, Indonesia",
     "time_ut": 1770902053,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s8gv"
-  },
-  {
-    "net": "us",
-    "code": "6000s7gb",
-    "lat_lng": [
-      3.7808,
-      63.4017
-    ],
-    "magnitude": 5,
-    "title": "M 5.0 - Carlsberg Ridge",
-    "time_ut": 1770652777,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s7gb"
   }
 ]
