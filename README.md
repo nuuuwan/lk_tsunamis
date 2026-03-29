@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--20_17:58:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--28_17:22:23-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| ⚪️ `2026-03-28 17:22:23` | 4.6 | [178 km SE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8fi) | [10.3550° N, 93.7028° E](https://www.google.com/maps?q=10.355,93.7028) | 1,446 km |
 | ⚪️ `2026-03-20 17:58:09` | 4.9 | [39 km SW of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sht8) | [2.2408° N, 96.1171° E](https://www.google.com/maps?q=2.2408,96.1171) | 1,811 km |
 | 🟡 `2026-03-08 11:35:06` | 5.2 | [52 km SSE of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000s2xx) | [2.0328° N, 96.5387° E](https://www.google.com/maps?q=2.0328,96.5387) | 1,863 km |
 | 🟡 `2026-03-07 22:28:43` | 5.2 | [95 km SSE of Sungai Penuh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000s2u5) | [2.8756° S, 101.6747° E](https://www.google.com/maps?q=-2.8756,101.6747) | 2,609 km |
@@ -18,7 +19,6 @@
 | 🟡 `2026-02-22 21:05:41` | 5.0 | [M 5.0 - 95 km W of Pariaman, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sasp) | [0.6712° S, 99.2601° E](https://www.google.com/maps?q=-0.6712,99.2601) | 2,259 km |
 | 🟡 `2026-02-16 11:30:39` | 5.0 | [M 5.0 - 97 km WNW of Pariaman, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000s9gm) | [0.4327° S, 99.2638° E](https://www.google.com/maps?q=-0.4327,99.2638) | 2,248 km |
 | 🟡 `2026-02-15 11:44:42` | 5.0 | [M 5.0 - 62 km SSE of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000s9ci) | [4.3562° S, 102.3859° E](https://www.google.com/maps?q=-4.3562,102.3859) | 2,756 km |
-| ⚪️ `2026-02-12 18:44:13` | 4.7 | [55 km W of Meulaboh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000s8gv) | [4.1527° N, 95.6294° E](https://www.google.com/maps?q=4.1527,95.6294) | 1,694 km |
 
 ### Most Severe Earthquakes
 
