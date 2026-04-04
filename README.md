@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--28_17:22:23-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--04_06:44:33-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| ⚪️ `2026-04-04 06:44:33` | 4.4 | [38 km S of Teluk Dalam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000smgr) | [0.2248° N, 97.7793° E](https://www.google.com/maps?q=0.2248,97.7793) | 2,068 km |
 | ⚪️ `2026-03-28 17:22:23` | 4.6 | [178 km SE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8fi) | [10.3550° N, 93.7028° E](https://www.google.com/maps?q=10.355,93.7028) | 1,446 km |
 | ⚪️ `2026-03-20 17:58:09` | 4.9 | [39 km SW of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sht8) | [2.2408° N, 96.1171° E](https://www.google.com/maps?q=2.2408,96.1171) | 1,811 km |
 | 🟡 `2026-03-08 11:35:06` | 5.2 | [52 km SSE of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000s2xx) | [2.0328° N, 96.5387° E](https://www.google.com/maps?q=2.0328,96.5387) | 1,863 km |
@@ -18,7 +19,6 @@
 | ⚪️ `2026-02-23 10:32:11` | 4.7 | [115 km W of Bamboo Flat, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sayu) | [11.6818° N, 91.6573° E](https://www.google.com/maps?q=11.6818,91.6573) | 1,266 km |
 | 🟡 `2026-02-22 21:05:41` | 5.0 | [M 5.0 - 95 km W of Pariaman, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sasp) | [0.6712° S, 99.2601° E](https://www.google.com/maps?q=-0.6712,99.2601) | 2,259 km |
 | 🟡 `2026-02-16 11:30:39` | 5.0 | [M 5.0 - 97 km WNW of Pariaman, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000s9gm) | [0.4327° S, 99.2638° E](https://www.google.com/maps?q=-0.4327,99.2638) | 2,248 km |
-| 🟡 `2026-02-15 11:44:42` | 5.0 | [M 5.0 - 62 km SSE of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000s9ci) | [4.3562° S, 102.3859° E](https://www.google.com/maps?q=-4.3562,102.3859) | 2,756 km |
 
 ### Most Severe Earthquakes
 

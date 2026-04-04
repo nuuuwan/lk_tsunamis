@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000smgr",
+    "lat_lng": [
+      0.2248,
+      97.7793
+    ],
+    "magnitude": 4.4,
+    "title": "M 4.4 - 38 km S of Teluk Dalam, Indonesia",
+    "time_ut": 1775265273,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smgr"
+  },
+  {
+    "net": "us",
     "code": "7000s8fi",
     "lat_lng": [
       10.355,
@@ -106,17 +118,5 @@
     "title": "M 5.0 - 97 km WNW of Pariaman, Indonesia",
     "time_ut": 1771221639,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s9gm"
-  },
-  {
-    "net": "us",
-    "code": "6000s9ci",
-    "lat_lng": [
-      -4.3562,
-      102.3859
-    ],
-    "magnitude": 5,
-    "title": "M 5.0 - 62 km SSE of Bengkulu, Indonesia",
-    "time_ut": 1771136082,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s9ci"
   }
 ]

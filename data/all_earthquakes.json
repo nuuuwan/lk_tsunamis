@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000smgr",
+    "lat_lng": [
+      0.2248,
+      97.7793
+    ],
+    "magnitude": 4.4,
+    "title": "M 4.4 - 38 km S of Teluk Dalam, Indonesia",
+    "time_ut": 1775265273,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smgr"
+  },
+  {
+    "net": "us",
     "code": "7000s8fi",
     "lat_lng": [
       10.355,
