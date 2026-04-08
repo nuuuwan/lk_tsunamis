@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000snkz",
+    "lat_lng": [
+      10.4817,
+      93.7061
+    ],
+    "magnitude": 4.6,
+    "title": "M 4.6 - 167 km SE of Port Blair, India",
+    "time_ut": 1775686431,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snkz"
+  },
+  {
+    "net": "us",
     "code": "6000smjx",
     "lat_lng": [
       -2.0711,
@@ -106,17 +118,5 @@
     "title": "M 4.7 - 115 km W of Bamboo Flat, India",
     "time_ut": 1771822931,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sayu"
-  },
-  {
-    "net": "us",
-    "code": "6000sasp",
-    "lat_lng": [
-      -0.6712,
-      99.2601
-    ],
-    "magnitude": 5,
-    "title": "M 5.0 - 95 km W of Pariaman, Indonesia",
-    "time_ut": 1771774541,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sasp"
   }
 ]
