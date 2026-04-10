@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000snwt",
+    "lat_lng": [
+      -3.3432,
+      102.382
+    ],
+    "magnitude": 5.1,
+    "title": "M 5.1 - 20 km NW of Curup, Indonesia",
+    "time_ut": 1775819333,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snwt"
+  },
+  {
+    "net": "us",
     "code": "6000snkz",
     "lat_lng": [
       10.4817,
@@ -106,17 +118,5 @@
     "title": "M 5.0 - 109 km WNW of Pariaman, Indonesia",
     "time_ut": 1772041772,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s09j"
-  },
-  {
-    "net": "us",
-    "code": "6000sayu",
-    "lat_lng": [
-      11.6818,
-      91.6573
-    ],
-    "magnitude": 4.7,
-    "title": "M 4.7 - 115 km W of Bamboo Flat, India",
-    "time_ut": 1771822931,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sayu"
   }
 ]

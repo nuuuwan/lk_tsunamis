@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--09_03:43:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--10_16:38:53-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| 🟡 `2026-04-10 16:38:53` | 5.1 | [20 km NW of Curup, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000snwt) | [3.3432° S, 102.3820° E](https://www.google.com/maps?q=-3.3432,102.382) | 2,702 km |
 | ⚪️ `2026-04-09 03:43:51` | 4.6 | [167 km SE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000snkz) | [10.4817° N, 93.7061° E](https://www.google.com/maps?q=10.4817,93.7061) | 1,449 km |
 | 🟡 `2026-04-04 16:51:12` | 5.2 | [46 km E of Tuapejat, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000smjx) | [2.0711° S, 100.0086° E](https://www.google.com/maps?q=-2.0711,100.0086) | 2,403 km |
 | ⚪️ `2026-04-04 06:44:33` | 4.4 | [38 km S of Teluk Dalam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000smgr) | [0.2248° N, 97.7793° E](https://www.google.com/maps?q=0.2248,97.7793) | 2,068 km |
@@ -18,7 +19,6 @@
 | 🟡 `2026-03-07 22:28:43` | 5.2 | [95 km SSE of Sungai Penuh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000s2u5) | [2.8756° S, 101.6747° E](https://www.google.com/maps?q=-2.8756,101.6747) | 2,609 km |
 | 🟡 `2026-03-03 10:26:47` | 6.1 | [65 km SE of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000s1ln) | [2.0344° N, 96.7729° E](https://www.google.com/maps?q=2.0344,96.7729) | 1,887 km |
 | 🟡 `2026-02-25 23:19:32` | 5.0 | [M 5.0 - 109 km WNW of Pariaman, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000s09j) | [0.3152° S, 99.1819° E](https://www.google.com/maps?q=-0.3152,99.1819) | 2,235 km |
-| ⚪️ `2026-02-23 10:32:11` | 4.7 | [115 km W of Bamboo Flat, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sayu) | [11.6818° N, 91.6573° E](https://www.google.com/maps?q=11.6818,91.6573) | 1,266 km |
 
 ### Most Severe Earthquakes
 
