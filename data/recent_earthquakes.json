@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000spea",
+    "lat_lng": [
+      1.9632,
+      94.7702
+    ],
+    "magnitude": 5.2,
+    "title": "M 5.2 - 187 km WSW of Sinabang, Indonesia",
+    "time_ut": 1775961636,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spea"
+  },
+  {
+    "net": "us",
     "code": "6000sp95",
     "lat_lng": [
       19.4406,
@@ -106,17 +118,5 @@
     "title": "M 5.2 - 95 km SSE of Sungai Penuh, Indonesia",
     "time_ut": 1772902723,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s2u5"
-  },
-  {
-    "net": "us",
-    "code": "7000s1ln",
-    "lat_lng": [
-      2.0344,
-      96.7729
-    ],
-    "magnitude": 6.1,
-    "title": "M 6.1 - 65 km SE of Sinabang, Indonesia",
-    "time_ut": 1772513807,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s1ln"
   }
 ]
