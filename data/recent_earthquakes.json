@@ -1,6 +1,30 @@
 [
   {
     "net": "us",
+    "code": "6000sr2q",
+    "lat_lng": [
+      6.4842,
+      60.2475
+    ],
+    "magnitude": 4.9,
+    "title": "M 4.9 - Carlsberg Ridge",
+    "time_ut": 1776492275,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr2q"
+  },
+  {
+    "net": "us",
+    "code": "6000sr2n",
+    "lat_lng": [
+      6.409,
+      60.2178
+    ],
+    "magnitude": 5.5,
+    "title": "M 5.5 - Carlsberg Ridge",
+    "time_ut": 1776491998,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr2n"
+  },
+  {
+    "net": "us",
     "code": "6000spea",
     "lat_lng": [
       1.9632,
@@ -94,29 +118,5 @@
     "title": "M 4.9 - 39 km SW of Sinabang, Indonesia",
     "time_ut": 1774009689,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sht8"
-  },
-  {
-    "net": "us",
-    "code": "7000s2xx",
-    "lat_lng": [
-      2.0328,
-      96.5387
-    ],
-    "magnitude": 5.2,
-    "title": "M 5.2 - 52 km SSE of Sinabang, Indonesia",
-    "time_ut": 1772949906,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s2xx"
-  },
-  {
-    "net": "us",
-    "code": "7000s2u5",
-    "lat_lng": [
-      -2.8756,
-      101.6747
-    ],
-    "magnitude": 5.2,
-    "title": "M 5.2 - 95 km SSE of Sungai Penuh, Indonesia",
-    "time_ut": 1772902723,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s2u5"
   }
 ]

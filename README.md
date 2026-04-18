@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--12_08:10:36-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--18_11:34:35-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,8 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| ⚪️ `2026-04-18 11:34:35` | 4.9 | [Carlsberg Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr2q) | [6.4842° N, 60.2475° E](https://www.google.com/maps?q=6.4842,60.2475) | 2,269 km |
+| 🟡 `2026-04-18 11:29:58` | 5.5 | [Carlsberg Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr2n) | [6.4090° N, 60.2178° E](https://www.google.com/maps?q=6.409,60.2178) | 2,273 km |
 | 🟡 `2026-04-12 08:10:36` | 5.2 | [187 km WSW of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000spea) | [1.9632° N, 94.7702° E](https://www.google.com/maps?q=1.9632,94.7702) | 1,684 km |
 | ⚪️ `2026-04-11 08:45:24` | 4.5 | [13 km NNE of Basmat, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sp95) | [19.4406° N, 77.2011° E](https://www.google.com/maps?q=19.4406,77.2011) | 1,343 km |
 | 🟡 `2026-04-10 16:38:53` | 5.1 | [20 km NW of Curup, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000snwt) | [3.3432° S, 102.3820° E](https://www.google.com/maps?q=-3.3432,102.382) | 2,702 km |
@@ -17,8 +19,6 @@
 | ⚪️ `2026-04-04 06:44:33` | 4.4 | [38 km S of Teluk Dalam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000smgr) | [0.2248° N, 97.7793° E](https://www.google.com/maps?q=0.2248,97.7793) | 2,068 km |
 | ⚪️ `2026-03-28 17:22:23` | 4.6 | [178 km SE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8fi) | [10.3550° N, 93.7028° E](https://www.google.com/maps?q=10.355,93.7028) | 1,446 km |
 | ⚪️ `2026-03-20 17:58:09` | 4.9 | [39 km SW of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sht8) | [2.2408° N, 96.1171° E](https://www.google.com/maps?q=2.2408,96.1171) | 1,811 km |
-| 🟡 `2026-03-08 11:35:06` | 5.2 | [52 km SSE of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000s2xx) | [2.0328° N, 96.5387° E](https://www.google.com/maps?q=2.0328,96.5387) | 1,863 km |
-| 🟡 `2026-03-07 22:28:43` | 5.2 | [95 km SSE of Sungai Penuh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000s2u5) | [2.8756° S, 101.6747° E](https://www.google.com/maps?q=-2.8756,101.6747) | 2,609 km |
 
 ### Most Severe Earthquakes
 
