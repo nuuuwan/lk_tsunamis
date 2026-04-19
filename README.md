@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--19_01:36:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--19_05:31:49-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| ⚪️ `2026-04-19 05:31:49` | 4.3 | [70 km W of Gunungsitoli, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr7y) | [1.2292° N, 96.9803° E](https://www.google.com/maps?q=1.2292,96.9803) | 1,942 km |
 | 🟡 `2026-04-19 01:36:53` | 5.6 | [36 km W of Gunungsitoli, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr5z) | [1.2986° N, 97.2879° E](https://www.google.com/maps?q=1.2986,97.2879) | 1,970 km |
 | ⚪️ `2026-04-18 11:34:35` | 4.9 | [Carlsberg Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr2q) | [6.4842° N, 60.2475° E](https://www.google.com/maps?q=6.4842,60.2475) | 2,269 km |
 | 🟡 `2026-04-18 11:29:58` | 5.5 | [Carlsberg Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr2n) | [6.4090° N, 60.2178° E](https://www.google.com/maps?q=6.409,60.2178) | 2,273 km |
@@ -18,7 +19,6 @@
 | ⚪️ `2026-04-09 03:43:51` | 4.6 | [167 km SE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000snkz) | [10.4817° N, 93.7061° E](https://www.google.com/maps?q=10.4817,93.7061) | 1,449 km |
 | 🟡 `2026-04-04 16:51:12` | 5.2 | [46 km E of Tuapejat, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000smjx) | [2.0711° S, 100.0086° E](https://www.google.com/maps?q=-2.0711,100.0086) | 2,403 km |
 | ⚪️ `2026-04-04 06:44:33` | 4.4 | [38 km S of Teluk Dalam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000smgr) | [0.2248° N, 97.7793° E](https://www.google.com/maps?q=0.2248,97.7793) | 2,068 km |
-| ⚪️ `2026-03-28 17:22:23` | 4.6 | [178 km SE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8fi) | [10.3550° N, 93.7028° E](https://www.google.com/maps?q=10.355,93.7028) | 1,446 km |
 
 ### Most Severe Earthquakes
 

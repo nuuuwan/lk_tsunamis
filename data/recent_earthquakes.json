@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000sr7y",
+    "lat_lng": [
+      1.2292,
+      96.9803
+    ],
+    "magnitude": 4.3,
+    "title": "M 4.3 - 70 km W of Gunungsitoli, Indonesia",
+    "time_ut": 1776556909,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr7y"
+  },
+  {
+    "net": "us",
     "code": "6000sr5z",
     "lat_lng": [
       1.2986,
@@ -106,17 +118,5 @@
     "title": "M 4.4 - 38 km S of Teluk Dalam, Indonesia",
     "time_ut": 1775265273,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smgr"
-  },
-  {
-    "net": "us",
-    "code": "7000s8fi",
-    "lat_lng": [
-      10.355,
-      93.7028
-    ],
-    "magnitude": 4.6,
-    "title": "M 4.6 - 178 km SE of Port Blair, India",
-    "time_ut": 1774698743,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8fi"
   }
 ]
