@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--24_12:33:04-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--26_17:22:25-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| ⚪️ `2026-04-26 17:22:25` | 4.6 | [31 km E of Parapat, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sszu) | [2.6230° N, 99.2195° E](https://www.google.com/maps?q=2.623,99.2195) | 2,124 km |
 | ⚪️ `2026-04-24 12:33:04` | 4.4 | [99 km SE of Pyapon, Burma (Myanmar)](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssid) | [15.7265° N, 96.4020° E](https://www.google.com/maps?q=15.7265,96.402) | 1,911 km |
 | ⚪️ `2026-04-19 05:31:49` | 4.3 | [70 km W of Gunungsitoli, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr7y) | [1.2292° N, 96.9803° E](https://www.google.com/maps?q=1.2292,96.9803) | 1,942 km |
 | 🟡 `2026-04-19 01:36:53` | 5.6 | [36 km W of Gunungsitoli, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr5z) | [1.2986° N, 97.2879° E](https://www.google.com/maps?q=1.2986,97.2879) | 1,970 km |
@@ -18,7 +19,6 @@
 | ⚪️ `2026-04-11 08:45:24` | 4.5 | [13 km NNE of Basmat, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sp95) | [19.4406° N, 77.2011° E](https://www.google.com/maps?q=19.4406,77.2011) | 1,343 km |
 | 🟡 `2026-04-10 16:38:53` | 5.1 | [20 km NW of Curup, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000snwt) | [3.3432° S, 102.3820° E](https://www.google.com/maps?q=-3.3432,102.382) | 2,702 km |
 | ⚪️ `2026-04-09 03:43:51` | 4.6 | [167 km SE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000snkz) | [10.4817° N, 93.7061° E](https://www.google.com/maps?q=10.4817,93.7061) | 1,449 km |
-| 🟡 `2026-04-04 16:51:12` | 5.2 | [46 km E of Tuapejat, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000smjx) | [2.0711° S, 100.0086° E](https://www.google.com/maps?q=-2.0711,100.0086) | 2,403 km |
 
 ### Most Severe Earthquakes
 

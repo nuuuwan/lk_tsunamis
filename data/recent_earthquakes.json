@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000sszu",
+    "lat_lng": [
+      2.623,
+      99.2195
+    ],
+    "magnitude": 4.6,
+    "title": "M 4.6 - 31 km E of Parapat, Indonesia",
+    "time_ut": 1777204345,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sszu"
+  },
+  {
+    "net": "us",
     "code": "6000ssid",
     "lat_lng": [
       15.7265,
@@ -106,17 +118,5 @@
     "title": "M 4.6 - 167 km SE of Port Blair, India",
     "time_ut": 1775686431,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snkz"
-  },
-  {
-    "net": "us",
-    "code": "6000smjx",
-    "lat_lng": [
-      -2.0711,
-      100.0086
-    ],
-    "magnitude": 5.2,
-    "title": "M 5.2 - 46 km E of Tuapejat, Indonesia",
-    "time_ut": 1775301672,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smjx"
   }
 ]
