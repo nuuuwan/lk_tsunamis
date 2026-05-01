@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000shhi",
+    "lat_lng": [
+      -0.8358,
+      101.3895
+    ],
+    "magnitude": 4.5,
+    "title": "M 4.5 - 48 km ESE of Sijunjung, Indonesia",
+    "time_ut": 1777612646,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shhi"
+  },
+  {
+    "net": "us",
     "code": "7000shgu",
     "lat_lng": [
       8.0204,
