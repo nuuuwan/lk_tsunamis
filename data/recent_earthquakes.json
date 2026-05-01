@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000shgu",
+    "lat_lng": [
+      8.0204,
+      91.7969
+    ],
+    "magnitude": 4.8,
+    "title": "M 4.8 - Nicobar Islands, India region",
+    "time_ut": 1777605170,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shgu"
+  },
+  {
+    "net": "us",
     "code": "6000sszu",
     "lat_lng": [
       2.623,
@@ -106,17 +118,5 @@
     "title": "M 5.1 - 20 km NW of Curup, Indonesia",
     "time_ut": 1775819333,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snwt"
-  },
-  {
-    "net": "us",
-    "code": "6000snkz",
-    "lat_lng": [
-      10.4817,
-      93.7061
-    ],
-    "magnitude": 4.6,
-    "title": "M 4.6 - 167 km SE of Port Blair, India",
-    "time_ut": 1775686431,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snkz"
   }
 ]

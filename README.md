@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--26_17:22:25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--01_08:42:50-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| ⚪️ `2026-05-01 08:42:50` | 4.8 | [Nicobar Islands, India region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000shgu) | [8.0204° N, 91.7969° E](https://www.google.com/maps?q=8.0204,91.7969) | 1,214 km |
 | ⚪️ `2026-04-26 17:22:25` | 4.6 | [31 km E of Parapat, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sszu) | [2.6230° N, 99.2195° E](https://www.google.com/maps?q=2.623,99.2195) | 2,124 km |
 | ⚪️ `2026-04-24 12:33:04` | 4.4 | [99 km SE of Pyapon, Burma (Myanmar)](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssid) | [15.7265° N, 96.4020° E](https://www.google.com/maps?q=15.7265,96.402) | 1,911 km |
 | ⚪️ `2026-04-19 05:31:49` | 4.3 | [70 km W of Gunungsitoli, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr7y) | [1.2292° N, 96.9803° E](https://www.google.com/maps?q=1.2292,96.9803) | 1,942 km |
@@ -18,7 +19,6 @@
 | 🟡 `2026-04-12 08:10:36` | 5.2 | [187 km WSW of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000spea) | [1.9632° N, 94.7702° E](https://www.google.com/maps?q=1.9632,94.7702) | 1,684 km |
 | ⚪️ `2026-04-11 08:45:24` | 4.5 | [13 km NNE of Basmat, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sp95) | [19.4406° N, 77.2011° E](https://www.google.com/maps?q=19.4406,77.2011) | 1,343 km |
 | 🟡 `2026-04-10 16:38:53` | 5.1 | [20 km NW of Curup, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000snwt) | [3.3432° S, 102.3820° E](https://www.google.com/maps?q=-3.3432,102.382) | 2,702 km |
-| ⚪️ `2026-04-09 03:43:51` | 4.6 | [167 km SE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000snkz) | [10.4817° N, 93.7061° E](https://www.google.com/maps?q=10.4817,93.7061) | 1,449 km |
 
 ### Most Severe Earthquakes
 
