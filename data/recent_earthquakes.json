@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000sx36",
+    "lat_lng": [
+      7.0489,
+      92.4295
+    ],
+    "magnitude": 4.9,
+    "title": "M 4.9 - Nicobar Islands, India region",
+    "time_ut": 1778563137,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx36"
+  },
+  {
+    "net": "us",
     "code": "7000shhi",
     "lat_lng": [
       -0.8358,
@@ -106,17 +118,5 @@
     "title": "M 5.2 - 187 km WSW of Sinabang, Indonesia",
     "time_ut": 1775961636,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spea"
-  },
-  {
-    "net": "us",
-    "code": "6000sp95",
-    "lat_lng": [
-      19.4406,
-      77.2011
-    ],
-    "magnitude": 4.5,
-    "title": "M 4.5 - 13 km NNE of Basmat, India",
-    "time_ut": 1775877324,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sp95"
   }
 ]

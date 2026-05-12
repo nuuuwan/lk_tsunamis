@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000sx36",
+    "lat_lng": [
+      7.0489,
+      92.4295
+    ],
+    "magnitude": 4.9,
+    "title": "M 4.9 - Nicobar Islands, India region",
+    "time_ut": 1778563137,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx36"
+  },
+  {
+    "net": "us",
     "code": "7000shhi",
     "lat_lng": [
       -0.8358,
