@@ -10,6 +10,7 @@
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
 | ⚪️ `2026-05-12 10:48:57` | 4.9 | [Nicobar Islands, India region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx36) | [7.0489° N, 92.4295° E](https://www.google.com/maps?q=7.0489,92.4295) | 1,289 km |
+| ⚪️ `2026-05-08 09:23:33` | 4.6 | [214 km SW of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw5i) | [10.2011° N, 91.4667° E](https://www.google.com/maps?q=10.2011,91.4667) | 1,203 km |
 | ⚪️ `2026-05-01 10:47:26` | 4.5 | [48 km ESE of Sijunjung, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000shhi) | [0.8358° S, 101.3895° E](https://www.google.com/maps?q=-0.8358,101.3895) | 2,483 km |
 | ⚪️ `2026-05-01 08:42:50` | 4.8 | [Nicobar Islands, India region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000shgu) | [8.0204° N, 91.7969° E](https://www.google.com/maps?q=8.0204,91.7969) | 1,214 km |
 | ⚪️ `2026-04-26 17:22:25` | 4.6 | [31 km E of Parapat, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sszu) | [2.6230° N, 99.2195° E](https://www.google.com/maps?q=2.623,99.2195) | 2,124 km |
@@ -18,7 +19,6 @@
 | 🟡 `2026-04-19 01:36:53` | 5.6 | [36 km W of Gunungsitoli, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr5z) | [1.2986° N, 97.2879° E](https://www.google.com/maps?q=1.2986,97.2879) | 1,970 km |
 | ⚪️ `2026-04-18 11:34:35` | 4.9 | [Carlsberg Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr2q) | [6.4842° N, 60.2475° E](https://www.google.com/maps?q=6.4842,60.2475) | 2,269 km |
 | 🟡 `2026-04-18 11:29:58` | 5.5 | [Carlsberg Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr2n) | [6.4090° N, 60.2178° E](https://www.google.com/maps?q=6.409,60.2178) | 2,273 km |
-| 🟡 `2026-04-12 08:10:36` | 5.2 | [187 km WSW of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000spea) | [1.9632° N, 94.7702° E](https://www.google.com/maps?q=1.9632,94.7702) | 1,684 km |
 
 ### Most Severe Earthquakes
 

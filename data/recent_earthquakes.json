@@ -13,6 +13,18 @@
   },
   {
     "net": "us",
+    "code": "6000sw5i",
+    "lat_lng": [
+      10.2011,
+      91.4667
+    ],
+    "magnitude": 4.6,
+    "title": "M 4.6 - 214 km SW of Port Blair, India",
+    "time_ut": 1778212413,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw5i"
+  },
+  {
+    "net": "us",
     "code": "7000shhi",
     "lat_lng": [
       -0.8358,
@@ -106,17 +118,5 @@
     "title": "M 5.5 - Carlsberg Ridge",
     "time_ut": 1776491998,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr2n"
-  },
-  {
-    "net": "us",
-    "code": "6000spea",
-    "lat_lng": [
-      1.9632,
-      94.7702
-    ],
-    "magnitude": 5.2,
-    "title": "M 5.2 - 187 km WSW of Sinabang, Indonesia",
-    "time_ut": 1775961636,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spea"
   }
 ]

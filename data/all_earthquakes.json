@@ -13,6 +13,18 @@
   },
   {
     "net": "us",
+    "code": "6000sw5i",
+    "lat_lng": [
+      10.2011,
+      91.4667
+    ],
+    "magnitude": 4.6,
+    "title": "M 4.6 - 214 km SW of Port Blair, India",
+    "time_ut": 1778212413,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw5i"
+  },
+  {
+    "net": "us",
     "code": "7000shhi",
     "lat_lng": [
       -0.8358,
