@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--12_10:48:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--17_02:46:17-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| ⚪️ `2026-05-17 02:46:17` | 4.7 | [184 km NE of Bamboo Flat, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy9z) | [13.0317° N, 93.7365° E](https://www.google.com/maps?q=13.0317,93.7365) | 1,529 km |
 | ⚪️ `2026-05-12 10:48:57` | 4.9 | [Nicobar Islands, India region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx36) | [7.0489° N, 92.4295° E](https://www.google.com/maps?q=7.0489,92.4295) | 1,289 km |
 | ⚪️ `2026-05-08 09:23:33` | 4.6 | [214 km SW of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw5i) | [10.2011° N, 91.4667° E](https://www.google.com/maps?q=10.2011,91.4667) | 1,203 km |
 | ⚪️ `2026-05-01 10:47:26` | 4.5 | [48 km ESE of Sijunjung, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000shhi) | [0.8358° S, 101.3895° E](https://www.google.com/maps?q=-0.8358,101.3895) | 2,483 km |
@@ -18,7 +19,6 @@
 | ⚪️ `2026-04-19 05:31:49` | 4.3 | [70 km W of Gunungsitoli, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr7y) | [1.2292° N, 96.9803° E](https://www.google.com/maps?q=1.2292,96.9803) | 1,942 km |
 | 🟡 `2026-04-19 01:36:53` | 5.6 | [36 km W of Gunungsitoli, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr5z) | [1.2986° N, 97.2879° E](https://www.google.com/maps?q=1.2986,97.2879) | 1,970 km |
 | ⚪️ `2026-04-18 11:34:35` | 4.9 | [Carlsberg Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr2q) | [6.4842° N, 60.2475° E](https://www.google.com/maps?q=6.4842,60.2475) | 2,269 km |
-| 🟡 `2026-04-18 11:29:58` | 5.5 | [Carlsberg Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr2n) | [6.4090° N, 60.2178° E](https://www.google.com/maps?q=6.409,60.2178) | 2,273 km |
 
 ### Most Severe Earthquakes
 
