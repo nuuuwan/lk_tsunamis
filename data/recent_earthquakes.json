@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000syd2",
+    "lat_lng": [
+      11.0493,
+      95.1108
+    ],
+    "magnitude": 4.6,
+    "title": "M 4.6 - 266 km ESE of Port Blair, India",
+    "time_ut": 1779010700,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syd2"
+  },
+  {
+    "net": "us",
     "code": "6000sy9z",
     "lat_lng": [
       13.0317,
@@ -106,17 +118,5 @@
     "title": "M 5.6 - 36 km W of Gunungsitoli, Indonesia",
     "time_ut": 1776542813,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr5z"
-  },
-  {
-    "net": "us",
-    "code": "6000sr2q",
-    "lat_lng": [
-      6.4842,
-      60.2475
-    ],
-    "magnitude": 4.9,
-    "title": "M 4.9 - Carlsberg Ridge",
-    "time_ut": 1776492275,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr2q"
   }
 ]
