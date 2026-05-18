@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--17_15:08:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--18_07:35:24-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| 🟡 `2026-05-18 07:35:24` | 5.2 | [36 km SSE of Syriam, Burma (Myanmar)](https://earthquake.usgs.gov/earthquakes/eventpage/us6000syg0) | [16.4431° N, 96.3164° E](https://www.google.com/maps?q=16.4431,96.3164) | 1,938 km |
 | ⚪️ `2026-05-17 15:08:20` | 4.6 | [266 km ESE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000syd2) | [11.0493° N, 95.1108° E](https://www.google.com/maps?q=11.0493,95.1108) | 1,612 km |
 | ⚪️ `2026-05-17 02:46:17` | 4.7 | [184 km NE of Bamboo Flat, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy9z) | [13.0317° N, 93.7365° E](https://www.google.com/maps?q=13.0317,93.7365) | 1,529 km |
 | ⚪️ `2026-05-12 10:48:57` | 4.9 | [Nicobar Islands, India region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx36) | [7.0489° N, 92.4295° E](https://www.google.com/maps?q=7.0489,92.4295) | 1,289 km |
@@ -18,7 +19,6 @@
 | ⚪️ `2026-04-26 17:22:25` | 4.6 | [31 km E of Parapat, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sszu) | [2.6230° N, 99.2195° E](https://www.google.com/maps?q=2.623,99.2195) | 2,124 km |
 | ⚪️ `2026-04-24 12:33:04` | 4.4 | [99 km SE of Pyapon, Burma (Myanmar)](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssid) | [15.7265° N, 96.4020° E](https://www.google.com/maps?q=15.7265,96.402) | 1,911 km |
 | ⚪️ `2026-04-19 05:31:49` | 4.3 | [70 km W of Gunungsitoli, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr7y) | [1.2292° N, 96.9803° E](https://www.google.com/maps?q=1.2292,96.9803) | 1,942 km |
-| 🟡 `2026-04-19 01:36:53` | 5.6 | [36 km W of Gunungsitoli, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr5z) | [1.2986° N, 97.2879° E](https://www.google.com/maps?q=1.2986,97.2879) | 1,970 km |
 
 ### Most Severe Earthquakes
 

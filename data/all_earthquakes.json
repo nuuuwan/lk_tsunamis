@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000syg0",
+    "lat_lng": [
+      16.4431,
+      96.3164
+    ],
+    "magnitude": 5.2,
+    "title": "M 5.2 - 36 km SSE of Syriam, Burma (Myanmar)",
+    "time_ut": 1779069924,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syg0"
+  },
+  {
+    "net": "us",
     "code": "6000syd2",
     "lat_lng": [
       11.0493,
