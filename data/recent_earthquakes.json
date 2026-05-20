@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000syw5",
+    "lat_lng": [
+      2.3041,
+      96.2647
+    ],
+    "magnitude": 4.6,
+    "title": "M 4.6 - 23 km SSW of Sinabang, Indonesia",
+    "time_ut": 1779242604,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syw5"
+  },
+  {
+    "net": "us",
     "code": "6000syg0",
     "lat_lng": [
       16.4431,
@@ -106,17 +118,5 @@
     "title": "M 4.4 - 99 km SE of Pyapon, Burma (Myanmar)",
     "time_ut": 1777014184,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssid"
-  },
-  {
-    "net": "us",
-    "code": "6000sr7y",
-    "lat_lng": [
-      1.2292,
-      96.9803
-    ],
-    "magnitude": 4.3,
-    "title": "M 4.3 - 70 km W of Gunungsitoli, Indonesia",
-    "time_ut": 1776556909,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr7y"
   }
 ]
