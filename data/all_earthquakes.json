@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000snpl",
+    "lat_lng": [
+      4.1454,
+      97.5369
+    ],
+    "magnitude": 4.5,
+    "title": "M 4.5 - 59 km SW of Langsa, Indonesia",
+    "time_ut": 1779824947,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snpl"
+  },
+  {
+    "net": "us",
     "code": "6000szq3",
     "lat_lng": [
       -4.6647,
