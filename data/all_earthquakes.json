@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000sp6y",
+    "lat_lng": [
+      2.0401,
+      96.8764
+    ],
+    "magnitude": 4.7,
+    "title": "M 4.7 - 73 km SE of Sinabang, Indonesia",
+    "time_ut": 1780017059,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp6y"
+  },
+  {
+    "net": "us",
     "code": "7000snpl",
     "lat_lng": [
       4.1454,
