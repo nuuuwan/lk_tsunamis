@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000sp8m",
+    "lat_lng": [
+      0.6186,
+      100.052
+    ],
+    "magnitude": 4.5,
+    "title": "M 4.5 - 108 km NNW of Bukittinggi, Indonesia",
+    "time_ut": 1780044854,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp8m"
+  },
+  {
+    "net": "us",
     "code": "7000sp6y",
     "lat_lng": [
       2.0401,

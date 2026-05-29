@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000sp8m",
+    "lat_lng": [
+      0.6186,
+      100.052
+    ],
+    "magnitude": 4.5,
+    "title": "M 4.5 - 108 km NNW of Bukittinggi, Indonesia",
+    "time_ut": 1780044854,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp8m"
+  },
+  {
+    "net": "us",
     "code": "7000sp6y",
     "lat_lng": [
       2.0401,
@@ -106,17 +118,5 @@
     "title": "M 4.6 - 214 km SW of Port Blair, India",
     "time_ut": 1778212413,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw5i"
-  },
-  {
-    "net": "us",
-    "code": "7000shhi",
-    "lat_lng": [
-      -0.8358,
-      101.3895
-    ],
-    "magnitude": 4.5,
-    "title": "M 4.5 - 48 km ESE of Sijunjung, Indonesia",
-    "time_ut": 1777612646,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shhi"
   }
 ]
