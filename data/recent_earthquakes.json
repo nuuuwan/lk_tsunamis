@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000spp6",
+    "lat_lng": [
+      7.5655,
+      91.8273
+    ],
+    "magnitude": 4.6,
+    "title": "M 4.6 - Nicobar Islands, India region",
+    "time_ut": 1780239812,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spp6"
+  },
+  {
+    "net": "us",
     "code": "7000sp8m",
     "lat_lng": [
       0.6186,
@@ -106,17 +118,5 @@
     "title": "M 4.9 - Nicobar Islands, India region",
     "time_ut": 1778563137,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx36"
-  },
-  {
-    "net": "us",
-    "code": "6000sw5i",
-    "lat_lng": [
-      10.2011,
-      91.4667
-    ],
-    "magnitude": 4.6,
-    "title": "M 4.6 - 214 km SW of Port Blair, India",
-    "time_ut": 1778212413,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw5i"
   }
 ]
