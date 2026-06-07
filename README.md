@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--31_20:33:32-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--07_18:36:10-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| ⚪️ `2026-06-07 18:36:10` | 4.6 | [29 km WNW of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr8c) | [2.5731° N, 96.1308° E](https://www.google.com/maps?q=2.5731,96.1308) | 1,799 km |
 | ⚪️ `2026-05-31 20:33:32` | 4.6 | [Nicobar Islands, India region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000spp6) | [7.5655° N, 91.8273° E](https://www.google.com/maps?q=7.5655,91.8273) | 1,219 km |
 | ⚪️ `2026-05-29 14:24:14` | 4.5 | [108 km NNW of Bukittinggi, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp8m) | [0.6186° N, 100.0520° E](https://www.google.com/maps?q=0.6186,100.052) | 2,284 km |
 | ⚪️ `2026-05-29 06:40:59` | 4.7 | [73 km SE of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp6y) | [2.0401° N, 96.8764° E](https://www.google.com/maps?q=2.0401,96.8764) | 1,898 km |
@@ -18,7 +19,6 @@
 | 🟡 `2026-05-18 07:35:24` | 5.2 | [36 km SSE of Syriam, Burma (Myanmar)](https://earthquake.usgs.gov/earthquakes/eventpage/us6000syg0) | [16.4431° N, 96.3164° E](https://www.google.com/maps?q=16.4431,96.3164) | 1,938 km |
 | ⚪️ `2026-05-17 15:08:20` | 4.6 | [266 km ESE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000syd2) | [11.0493° N, 95.1108° E](https://www.google.com/maps?q=11.0493,95.1108) | 1,612 km |
 | ⚪️ `2026-05-17 02:46:17` | 4.7 | [184 km NE of Bamboo Flat, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy9z) | [13.0317° N, 93.7365° E](https://www.google.com/maps?q=13.0317,93.7365) | 1,529 km |
-| ⚪️ `2026-05-12 10:48:57` | 4.9 | [Nicobar Islands, India region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx36) | [7.0489° N, 92.4295° E](https://www.google.com/maps?q=7.0489,92.4295) | 1,289 km |
 
 ### Most Severe Earthquakes
 

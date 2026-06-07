@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000sr8c",
+    "lat_lng": [
+      2.5731,
+      96.1308
+    ],
+    "magnitude": 4.6,
+    "title": "M 4.6 - 29 km WNW of Sinabang, Indonesia",
+    "time_ut": 1780837570,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr8c"
+  },
+  {
+    "net": "us",
     "code": "7000spp6",
     "lat_lng": [
       7.5655,
@@ -106,17 +118,5 @@
     "title": "M 4.7 - 184 km NE of Bamboo Flat, India",
     "time_ut": 1778966177,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy9z"
-  },
-  {
-    "net": "us",
-    "code": "6000sx36",
-    "lat_lng": [
-      7.0489,
-      92.4295
-    ],
-    "magnitude": 4.9,
-    "title": "M 4.9 - Nicobar Islands, India region",
-    "time_ut": 1778563137,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx36"
   }
 ]
