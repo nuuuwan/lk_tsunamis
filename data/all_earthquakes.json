@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000srei",
+    "lat_lng": [
+      -0.7906,
+      100.456
+    ],
+    "magnitude": 4.9,
+    "title": "M 4.9 - 20 km NNE of Padang, Indonesia",
+    "time_ut": 1780900762,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srei"
+  },
+  {
+    "net": "us",
     "code": "7000sr8c",
     "lat_lng": [
       2.5731,

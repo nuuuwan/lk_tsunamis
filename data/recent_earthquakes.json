@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000srei",
+    "lat_lng": [
+      -0.7906,
+      100.456
+    ],
+    "magnitude": 4.9,
+    "title": "M 4.9 - 20 km NNE of Padang, Indonesia",
+    "time_ut": 1780900762,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srei"
+  },
+  {
+    "net": "us",
     "code": "7000sr8c",
     "lat_lng": [
       2.5731,
@@ -106,17 +118,5 @@
     "title": "M 4.6 - 266 km ESE of Port Blair, India",
     "time_ut": 1779010700,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syd2"
-  },
-  {
-    "net": "us",
-    "code": "6000sy9z",
-    "lat_lng": [
-      13.0317,
-      93.7365
-    ],
-    "magnitude": 4.7,
-    "title": "M 4.7 - 184 km NE of Bamboo Flat, India",
-    "time_ut": 1778966177,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy9z"
   }
 ]
