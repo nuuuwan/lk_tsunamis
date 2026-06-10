@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000ss28",
+    "lat_lng": [
+      1.8646,
+      98.9699
+    ],
+    "magnitude": 4.6,
+    "title": "M 4.6 - 25 km ENE of Sibolga, Indonesia",
+    "time_ut": 1781109055,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss28"
+  },
+  {
+    "net": "us",
     "code": "7000srei",
     "lat_lng": [
       -0.7906,
@@ -106,17 +118,5 @@
     "title": "M 5.2 - 36 km SSE of Syriam, Burma (Myanmar)",
     "time_ut": 1779069924,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syg0"
-  },
-  {
-    "net": "us",
-    "code": "6000syd2",
-    "lat_lng": [
-      11.0493,
-      95.1108
-    ],
-    "magnitude": 4.6,
-    "title": "M 4.6 - 266 km ESE of Port Blair, India",
-    "time_ut": 1779010700,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syd2"
   }
 ]
