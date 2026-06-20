@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--10_22:00:55-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--20_07:10:07-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| 🟡 `2026-06-20 07:10:07` | 5.0 | [M 5.0 - 102 km SSW of Pagar Alam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000surx) | [4.9130° S, 102.9796° E](https://www.google.com/maps?q=-4.913,102.9796) | 2,844 km |
 | ⚪️ `2026-06-10 22:00:55` | 4.6 | [25 km ENE of Sibolga, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss28) | [1.8646° N, 98.9699° E](https://www.google.com/maps?q=1.8646,98.9699) | 2,123 km |
 | ⚪️ `2026-06-08 12:09:22` | 4.9 | [20 km NNE of Padang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000srei) | [0.7906° S, 100.4560° E](https://www.google.com/maps?q=-0.7906,100.456) | 2,386 km |
 | ⚪️ `2026-06-07 18:36:10` | 4.6 | [29 km WNW of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr8c) | [2.5731° N, 96.1308° E](https://www.google.com/maps?q=2.5731,96.1308) | 1,799 km |
@@ -18,7 +19,6 @@
 | ⚪️ `2026-05-27 01:19:07` | 4.5 | [59 km SW of Langsa, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000snpl) | [4.1454° N, 97.5369° E](https://www.google.com/maps?q=4.1454,97.5369) | 1,899 km |
 | 🟡 `2026-05-23 18:10:25` | 5.2 | [100 km SSE of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000szq3) | [4.6647° S, 102.5556° E](https://www.google.com/maps?q=-4.6647,102.5556) | 2,790 km |
 | ⚪️ `2026-05-20 07:33:24` | 4.6 | [23 km SSW of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000syw5) | [2.3041° N, 96.2647° E](https://www.google.com/maps?q=2.3041,96.2647) | 1,824 km |
-| 🟡 `2026-05-18 07:35:24` | 5.2 | [36 km SSE of Syriam, Burma (Myanmar)](https://earthquake.usgs.gov/earthquakes/eventpage/us6000syg0) | [16.4431° N, 96.3164° E](https://www.google.com/maps?q=16.4431,96.3164) | 1,938 km |
 
 ### Most Severe Earthquakes
 
