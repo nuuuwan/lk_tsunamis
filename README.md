@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--20_07:10:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--21_08:03:28-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| ⚪️ `2026-06-21 08:03:28` | 4.7 | [80 km WSW of Padang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000suxs) | [1.2742° S, 99.7076° E](https://www.google.com/maps?q=-1.2742,99.7076) | 2,333 km |
 | 🟡 `2026-06-20 07:10:07` | 5.0 | [M 5.0 - 102 km SSW of Pagar Alam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000surx) | [4.9130° S, 102.9796° E](https://www.google.com/maps?q=-4.913,102.9796) | 2,844 km |
 | ⚪️ `2026-06-10 22:00:55` | 4.6 | [25 km ENE of Sibolga, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss28) | [1.8646° N, 98.9699° E](https://www.google.com/maps?q=1.8646,98.9699) | 2,123 km |
 | ⚪️ `2026-06-08 12:09:22` | 4.9 | [20 km NNE of Padang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000srei) | [0.7906° S, 100.4560° E](https://www.google.com/maps?q=-0.7906,100.456) | 2,386 km |
@@ -18,7 +19,6 @@
 | ⚪️ `2026-05-29 06:40:59` | 4.7 | [73 km SE of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp6y) | [2.0401° N, 96.8764° E](https://www.google.com/maps?q=2.0401,96.8764) | 1,898 km |
 | ⚪️ `2026-05-27 01:19:07` | 4.5 | [59 km SW of Langsa, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000snpl) | [4.1454° N, 97.5369° E](https://www.google.com/maps?q=4.1454,97.5369) | 1,899 km |
 | 🟡 `2026-05-23 18:10:25` | 5.2 | [100 km SSE of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000szq3) | [4.6647° S, 102.5556° E](https://www.google.com/maps?q=-4.6647,102.5556) | 2,790 km |
-| ⚪️ `2026-05-20 07:33:24` | 4.6 | [23 km SSW of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000syw5) | [2.3041° N, 96.2647° E](https://www.google.com/maps?q=2.3041,96.2647) | 1,824 km |
 
 ### Most Severe Earthquakes
 

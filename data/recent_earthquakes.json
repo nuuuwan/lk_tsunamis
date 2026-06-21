@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000suxs",
+    "lat_lng": [
+      -1.2742,
+      99.7076
+    ],
+    "magnitude": 4.7,
+    "title": "M 4.7 - 80 km WSW of Padang, Indonesia",
+    "time_ut": 1782009208,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suxs"
+  },
+  {
+    "net": "us",
     "code": "7000surx",
     "lat_lng": [
       -4.913,
@@ -106,17 +118,5 @@
     "title": "M 5.2 - 100 km SSE of Bengkulu, Indonesia",
     "time_ut": 1779540025,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szq3"
-  },
-  {
-    "net": "us",
-    "code": "6000syw5",
-    "lat_lng": [
-      2.3041,
-      96.2647
-    ],
-    "magnitude": 4.6,
-    "title": "M 4.6 - 23 km SSW of Sinabang, Indonesia",
-    "time_ut": 1779242604,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syw5"
   }
 ]
