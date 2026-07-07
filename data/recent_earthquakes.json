@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000tapb",
+    "lat_lng": [
+      2.9494,
+      97.5803
+    ],
+    "magnitude": 4.2,
+    "title": "M 4.2 - 76 km NNW of Singkil, Indonesia",
+    "time_ut": 1783438567,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tapb"
+  },
+  {
+    "net": "us",
     "code": "6000t7fi",
     "lat_lng": [
       -4.6059,
@@ -106,17 +118,5 @@
     "title": "M 4.7 - 73 km SE of Sinabang, Indonesia",
     "time_ut": 1780017059,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp6y"
-  },
-  {
-    "net": "us",
-    "code": "7000snpl",
-    "lat_lng": [
-      4.1454,
-      97.5369
-    ],
-    "magnitude": 4.5,
-    "title": "M 4.5 - 59 km SW of Langsa, Indonesia",
-    "time_ut": 1779824947,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snpl"
   }
 ]

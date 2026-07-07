@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--22_23:33:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--07_21:06:07-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| ⚪️ `2026-07-07 21:06:07` | 4.2 | [76 km NNW of Singkil, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tapb) | [2.9494° N, 97.5803° E](https://www.google.com/maps?q=2.9494,97.5803) | 1,939 km |
 | ⚪️ `2026-06-22 23:33:47` | 4.8 | [90 km SW of Pagar Alam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7fi) | [4.6059° S, 102.6778° E](https://www.google.com/maps?q=-4.6059,102.6778) | 2,798 km |
 | ⚪️ `2026-06-21 08:03:28` | 4.7 | [80 km WSW of Padang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000suxs) | [1.2742° S, 99.7076° E](https://www.google.com/maps?q=-1.2742,99.7076) | 2,333 km |
 | 🟡 `2026-06-20 07:10:07` | 5.0 | [M 5.0 - 102 km SSW of Pagar Alam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000surx) | [4.9130° S, 102.9796° E](https://www.google.com/maps?q=-4.913,102.9796) | 2,844 km |
@@ -18,7 +19,6 @@
 | ⚪️ `2026-05-31 20:33:32` | 4.6 | [Nicobar Islands, India region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000spp6) | [7.5655° N, 91.8273° E](https://www.google.com/maps?q=7.5655,91.8273) | 1,219 km |
 | ⚪️ `2026-05-29 14:24:14` | 4.5 | [108 km NNW of Bukittinggi, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp8m) | [0.6186° N, 100.0520° E](https://www.google.com/maps?q=0.6186,100.052) | 2,284 km |
 | ⚪️ `2026-05-29 06:40:59` | 4.7 | [73 km SE of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp6y) | [2.0401° N, 96.8764° E](https://www.google.com/maps?q=2.0401,96.8764) | 1,898 km |
-| ⚪️ `2026-05-27 01:19:07` | 4.5 | [59 km SW of Langsa, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000snpl) | [4.1454° N, 97.5369° E](https://www.google.com/maps?q=4.1454,97.5369) | 1,899 km |
 
 ### Most Severe Earthquakes
 
