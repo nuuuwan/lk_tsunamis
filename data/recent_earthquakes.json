@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000sz2t",
+    "lat_lng": [
+      19.2225,
+      76.829
+    ],
+    "magnitude": 4.2,
+    "title": "M 4.2 - 7 km SE of Parbhani, India",
+    "time_ut": 1783541245,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz2t"
+  },
+  {
+    "net": "us",
     "code": "6000tapb",
     "lat_lng": [
       2.9494,
@@ -106,17 +118,5 @@
     "title": "M 4.5 - 108 km NNW of Bukittinggi, Indonesia",
     "time_ut": 1780044854,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp8m"
-  },
-  {
-    "net": "us",
-    "code": "7000sp6y",
-    "lat_lng": [
-      2.0401,
-      96.8764
-    ],
-    "magnitude": 4.7,
-    "title": "M 4.7 - 73 km SE of Sinabang, Indonesia",
-    "time_ut": 1780017059,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp6y"
   }
 ]
