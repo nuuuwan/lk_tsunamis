@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000sznp",
+    "lat_lng": [
+      4.3516,
+      95.109
+    ],
+    "magnitude": 4.5,
+    "title": "M 4.5 - 115 km WNW of Meulaboh, Indonesia",
+    "time_ut": 1783755678,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznp"
+  },
+  {
+    "net": "us",
     "code": "7000sz2t",
     "lat_lng": [
       19.2225,

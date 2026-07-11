@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--09_01:37:25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--11_13:11:18-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| ⚪️ `2026-07-11 13:11:18` | 4.5 | [115 km WNW of Meulaboh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznp) | [4.3516° N, 95.1090° E](https://www.google.com/maps?q=4.3516,95.109) | 1,633 km |
 | ⚪️ `2026-07-09 01:37:25` | 4.2 | [7 km SE of Parbhani, India](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz2t) | [19.2225° N, 76.8290° E](https://www.google.com/maps?q=19.2225,76.829) | 1,332 km |
 | ⚪️ `2026-07-07 21:06:07` | 4.2 | [76 km NNW of Singkil, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tapb) | [2.9494° N, 97.5803° E](https://www.google.com/maps?q=2.9494,97.5803) | 1,939 km |
 | ⚪️ `2026-06-22 23:33:47` | 4.8 | [90 km SW of Pagar Alam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7fi) | [4.6059° S, 102.6778° E](https://www.google.com/maps?q=-4.6059,102.6778) | 2,798 km |
@@ -18,7 +19,6 @@
 | ⚪️ `2026-06-08 12:09:22` | 4.9 | [20 km NNE of Padang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000srei) | [0.7906° S, 100.4560° E](https://www.google.com/maps?q=-0.7906,100.456) | 2,386 km |
 | ⚪️ `2026-06-07 18:36:10` | 4.6 | [29 km WNW of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr8c) | [2.5731° N, 96.1308° E](https://www.google.com/maps?q=2.5731,96.1308) | 1,799 km |
 | ⚪️ `2026-05-31 20:33:32` | 4.6 | [Nicobar Islands, India region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000spp6) | [7.5655° N, 91.8273° E](https://www.google.com/maps?q=7.5655,91.8273) | 1,219 km |
-| ⚪️ `2026-05-29 14:24:14` | 4.5 | [108 km NNW of Bukittinggi, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp8m) | [0.6186° N, 100.0520° E](https://www.google.com/maps?q=0.6186,100.052) | 2,284 km |
 
 ### Most Severe Earthquakes
 
