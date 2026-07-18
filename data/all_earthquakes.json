@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000t1ig",
+    "lat_lng": [
+      -0.4136,
+      98.8487
+    ],
+    "magnitude": 4.5,
+    "title": "M 4.5 - 143 km W of Pariaman, Indonesia",
+    "time_ut": 1784335805,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ig"
+  },
+  {
+    "net": "us",
     "code": "7000szsn",
     "lat_lng": [
       16.4995,
