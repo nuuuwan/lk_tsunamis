@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000t2dz",
+    "lat_lng": [
+      4.2441,
+      97.5238
+    ],
+    "magnitude": 5,
+    "title": "M 5.0 - 55 km WSW of Langsa, Indonesia",
+    "time_ut": 1784693902,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2dz"
+  },
+  {
+    "net": "us",
     "code": "7000t20r",
     "lat_lng": [
       11.7875,
@@ -106,17 +118,5 @@
     "title": "M 5.0 - 102 km SSW of Pagar Alam, Indonesia",
     "time_ut": 1781919607,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000surx"
-  },
-  {
-    "net": "us",
-    "code": "7000ss28",
-    "lat_lng": [
-      1.8646,
-      98.9699
-    ],
-    "magnitude": 4.6,
-    "title": "M 4.6 - 25 km ENE of Sibolga, Indonesia",
-    "time_ut": 1781109055,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss28"
   }
 ]
