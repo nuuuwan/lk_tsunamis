@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--22_09:48:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--31_14:01:28-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| ⚪️ `2026-07-31 14:01:28` | 4.9 | [287 km SW of Banda Aceh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000th68) | [4.0899° N, 93.1811° E](https://www.google.com/maps?q=4.0899,93.1811) | 1,435 km |
 | 🟡 `2026-07-22 09:48:22` | 5.0 | [M 5.0 - 55 km WSW of Langsa, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2dz) | [4.2441° N, 97.5238° E](https://www.google.com/maps?q=4.2441,97.5238) | 1,895 km |
 | ⚪️ `2026-07-21 01:07:38` | 4.4 | [39 km ENE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t20r) | [11.7875° N, 93.0879° E](https://www.google.com/maps?q=11.7875,93.0879) | 1,417 km |
 | ⚪️ `2026-07-18 06:20:05` | 4.5 | [143 km W of Pariaman, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ig) | [0.4136° S, 98.8487° E](https://www.google.com/maps?q=-0.4136,98.8487) | 2,206 km |
@@ -18,7 +19,6 @@
 | ⚪️ `2026-07-07 21:06:07` | 4.2 | [76 km NNW of Singkil, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tapb) | [2.9494° N, 97.5803° E](https://www.google.com/maps?q=2.9494,97.5803) | 1,939 km |
 | ⚪️ `2026-06-22 23:33:47` | 4.8 | [90 km SW of Pagar Alam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7fi) | [4.6059° S, 102.6778° E](https://www.google.com/maps?q=-4.6059,102.6778) | 2,798 km |
 | ⚪️ `2026-06-21 08:03:28` | 4.7 | [80 km WSW of Padang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000suxs) | [1.2742° S, 99.7076° E](https://www.google.com/maps?q=-1.2742,99.7076) | 2,333 km |
-| 🟡 `2026-06-20 07:10:07` | 5.0 | [M 5.0 - 102 km SSW of Pagar Alam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000surx) | [4.9130° S, 102.9796° E](https://www.google.com/maps?q=-4.913,102.9796) | 2,844 km |
 
 ### Most Severe Earthquakes
 
