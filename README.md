@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--31_14:01:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--07_00:35:22-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| ⚪️ `2026-08-07 00:35:22` | 4.4 | [282 km WSW of Banda Aceh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tipc) | [4.1443° N, 93.2008° E](https://www.google.com/maps?q=4.1443,93.2008) | 1,435 km |
 | ⚪️ `2026-07-31 14:01:28` | 4.9 | [287 km SW of Banda Aceh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000th68) | [4.0899° N, 93.1811° E](https://www.google.com/maps?q=4.0899,93.1811) | 1,435 km |
 | 🟡 `2026-07-22 09:48:22` | 5.0 | [M 5.0 - 55 km WSW of Langsa, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2dz) | [4.2441° N, 97.5238° E](https://www.google.com/maps?q=4.2441,97.5238) | 1,895 km |
 | ⚪️ `2026-07-21 01:07:38` | 4.4 | [39 km ENE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t20r) | [11.7875° N, 93.0879° E](https://www.google.com/maps?q=11.7875,93.0879) | 1,417 km |
@@ -18,7 +19,6 @@
 | ⚪️ `2026-07-09 01:37:25` | 4.2 | [7 km SE of Parbhani, India](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz2t) | [19.2225° N, 76.8290° E](https://www.google.com/maps?q=19.2225,76.829) | 1,332 km |
 | ⚪️ `2026-07-07 21:06:07` | 4.2 | [76 km NNW of Singkil, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tapb) | [2.9494° N, 97.5803° E](https://www.google.com/maps?q=2.9494,97.5803) | 1,939 km |
 | ⚪️ `2026-06-22 23:33:47` | 4.8 | [90 km SW of Pagar Alam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7fi) | [4.6059° S, 102.6778° E](https://www.google.com/maps?q=-4.6059,102.6778) | 2,798 km |
-| ⚪️ `2026-06-21 08:03:28` | 4.7 | [80 km WSW of Padang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000suxs) | [1.2742° S, 99.7076° E](https://www.google.com/maps?q=-1.2742,99.7076) | 2,333 km |
 
 ### Most Severe Earthquakes
 
