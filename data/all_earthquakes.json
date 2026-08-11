@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000tjug",
+    "lat_lng": [
+      -4.4801,
+      102.5519
+    ],
+    "magnitude": 4.7,
+    "title": "M 4.7 - 81 km SSE of Bengkulu, Indonesia",
+    "time_ut": 1786410766,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjug"
+  },
+  {
+    "net": "us",
     "code": "6000tjcl",
     "lat_lng": [
       7.017,
