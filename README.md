@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--11_06:42:46-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--12_01:25:41-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| ⚪️ `2026-08-12 01:25:41` | 4.9 | [149 km SSE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk1m) | [10.5351° N, 93.4884° E](https://www.google.com/maps?q=10.5351,93.4884) | 1,427 km |
 | ⚪️ `2026-08-11 06:42:46` | 4.7 | [81 km SSE of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjug) | [4.4801° S, 102.5519° E](https://www.google.com/maps?q=-4.4801,102.5519) | 2,779 km |
 | 🟡 `2026-08-09 08:32:07` | 5.0 | [M 5.0 - 180 km NW of Sabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcl) | [7.0170° N, 94.1402° E](https://www.google.com/maps?q=7.017,94.1402) | 1,477 km |
 | ⚪️ `2026-08-07 00:35:22` | 4.4 | [282 km WSW of Banda Aceh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tipc) | [4.1443° N, 93.2008° E](https://www.google.com/maps?q=4.1443,93.2008) | 1,435 km |
@@ -18,7 +19,6 @@
 | ⚪️ `2026-07-18 06:20:05` | 4.5 | [143 km W of Pariaman, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ig) | [0.4136° S, 98.8487° E](https://www.google.com/maps?q=-0.4136,98.8487) | 2,206 km |
 | ⚪️ `2026-07-12 05:05:45` | 4.5 | [184 km SE of Yārāda, India](https://earthquake.usgs.gov/earthquakes/eventpage/us7000szsn) | [16.4995° N, 84.5232° E](https://www.google.com/maps?q=16.4995,84.5232) | 1,042 km |
 | ⚪️ `2026-07-11 13:11:18` | 4.5 | [115 km WNW of Meulaboh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznp) | [4.3516° N, 95.1090° E](https://www.google.com/maps?q=4.3516,95.109) | 1,633 km |
-| ⚪️ `2026-07-09 01:37:25` | 4.2 | [7 km SE of Parbhani, India](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz2t) | [19.2225° N, 76.8290° E](https://www.google.com/maps?q=19.2225,76.829) | 1,332 km |
 
 ### Most Severe Earthquakes
 
