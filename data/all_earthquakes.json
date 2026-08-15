@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000tkyk",
+    "lat_lng": [
+      3.018,
+      99.0376
+    ],
+    "magnitude": 6.9,
+    "title": "M 6.9 - 7 km NNW of Pematangsiantar, Indonesia",
+    "time_ut": 1786791292,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk"
+  },
+  {
+    "net": "us",
     "code": "6000tk1m",
     "lat_lng": [
       10.5351,
