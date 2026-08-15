@@ -10,6 +10,7 @@
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
 | 🟠 `2026-08-15 16:24:52` | 6.9 | [7 km NNW of Pematangsiantar, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk) | [3.0180° N, 99.0376° E](https://www.google.com/maps?q=3.018,99.0376) | 2,092 km |
+| ⚪️ `2026-08-13 19:52:53` | 4.3 | [103 km WSW of Gunungsitoli, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkh9) | [0.8968° N, 96.7701° E](https://www.google.com/maps?q=0.8968,96.7701) | 1,935 km |
 | ⚪️ `2026-08-12 01:25:41` | 4.9 | [149 km SSE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk1m) | [10.5351° N, 93.4884° E](https://www.google.com/maps?q=10.5351,93.4884) | 1,427 km |
 | ⚪️ `2026-08-11 06:42:46` | 4.7 | [81 km SSE of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjug) | [4.4801° S, 102.5519° E](https://www.google.com/maps?q=-4.4801,102.5519) | 2,779 km |
 | 🟡 `2026-08-09 08:32:07` | 5.0 | [M 5.0 - 180 km NW of Sabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcl) | [7.0170° N, 94.1402° E](https://www.google.com/maps?q=7.017,94.1402) | 1,477 km |
@@ -18,7 +19,6 @@
 | 🟡 `2026-07-22 09:48:22` | 5.0 | [M 5.0 - 55 km WSW of Langsa, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2dz) | [4.2441° N, 97.5238° E](https://www.google.com/maps?q=4.2441,97.5238) | 1,895 km |
 | ⚪️ `2026-07-21 01:07:38` | 4.4 | [39 km ENE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t20r) | [11.7875° N, 93.0879° E](https://www.google.com/maps?q=11.7875,93.0879) | 1,417 km |
 | ⚪️ `2026-07-18 06:20:05` | 4.5 | [143 km W of Pariaman, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ig) | [0.4136° S, 98.8487° E](https://www.google.com/maps?q=-0.4136,98.8487) | 2,206 km |
-| ⚪️ `2026-07-12 05:05:45` | 4.5 | [184 km SE of Yārāda, India](https://earthquake.usgs.gov/earthquakes/eventpage/us7000szsn) | [16.4995° N, 84.5232° E](https://www.google.com/maps?q=16.4995,84.5232) | 1,042 km |
 
 ### Most Severe Earthquakes
 
