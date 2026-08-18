@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--15_16:24:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--18_11:32:20-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| 🟡 `2026-08-18 11:32:20` | 5.6 | [154 km SSE of Teluk Dalam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkt) | [0.6858° S, 98.4160° E](https://www.google.com/maps?q=-0.6858,98.416) | 2,175 km |
 | 🟠 `2026-08-15 16:24:52` | 6.9 | [7 km NNW of Pematangsiantar, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk) | [3.0180° N, 99.0376° E](https://www.google.com/maps?q=3.018,99.0376) | 2,092 km |
 | ⚪️ `2026-08-13 19:52:53` | 4.3 | [103 km WSW of Gunungsitoli, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkh9) | [0.8968° N, 96.7701° E](https://www.google.com/maps?q=0.8968,96.7701) | 1,935 km |
 | ⚪️ `2026-08-12 01:25:41` | 4.9 | [149 km SSE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk1m) | [10.5351° N, 93.4884° E](https://www.google.com/maps?q=10.5351,93.4884) | 1,427 km |
@@ -18,7 +19,6 @@
 | ⚪️ `2026-07-31 14:01:28` | 4.9 | [287 km SW of Banda Aceh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000th68) | [4.0899° N, 93.1811° E](https://www.google.com/maps?q=4.0899,93.1811) | 1,435 km |
 | 🟡 `2026-07-22 09:48:22` | 5.0 | [M 5.0 - 55 km WSW of Langsa, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2dz) | [4.2441° N, 97.5238° E](https://www.google.com/maps?q=4.2441,97.5238) | 1,895 km |
 | ⚪️ `2026-07-21 01:07:38` | 4.4 | [39 km ENE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t20r) | [11.7875° N, 93.0879° E](https://www.google.com/maps?q=11.7875,93.0879) | 1,417 km |
-| ⚪️ `2026-07-18 06:20:05` | 4.5 | [143 km W of Pariaman, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ig) | [0.4136° S, 98.8487° E](https://www.google.com/maps?q=-0.4136,98.8487) | 2,206 km |
 
 ### Most Severe Earthquakes
 
