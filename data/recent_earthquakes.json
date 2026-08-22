@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000tmt7",
+    "lat_lng": [
+      -3.2971,
+      100.4875
+    ],
+    "magnitude": 4.7,
+    "title": "M 4.7 - 170 km SW of Sungai Penuh, Indonesia",
+    "time_ut": 1787416384,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmt7"
+  },
+  {
+    "net": "us",
     "code": "6000tlkt",
     "lat_lng": [
       -0.6858,
@@ -106,17 +118,5 @@
     "title": "M 5.0 - 55 km WSW of Langsa, Indonesia",
     "time_ut": 1784693902,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2dz"
-  },
-  {
-    "net": "us",
-    "code": "7000t20r",
-    "lat_lng": [
-      11.7875,
-      93.0879
-    ],
-    "magnitude": 4.4,
-    "title": "M 4.4 - 39 km ENE of Port Blair, India",
-    "time_ut": 1784576258,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t20r"
   }
 ]
