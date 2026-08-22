@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000tmte",
+    "lat_lng": [
+      -3.0302,
+      100.8738
+    ],
+    "magnitude": 4.5,
+    "title": "M 4.5 - 122 km SSW of Sungai Penuh, Indonesia",
+    "time_ut": 1787420408,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmte"
+  },
+  {
+    "net": "us",
     "code": "6000tmt7",
     "lat_lng": [
       -3.2971,
@@ -106,17 +118,5 @@
     "title": "M 4.9 - 287 km SW of Banda Aceh, Indonesia",
     "time_ut": 1785486688,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th68"
-  },
-  {
-    "net": "us",
-    "code": "7000t2dz",
-    "lat_lng": [
-      4.2441,
-      97.5238
-    ],
-    "magnitude": 5,
-    "title": "M 5.0 - 55 km WSW of Langsa, Indonesia",
-    "time_ut": 1784693902,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2dz"
   }
 ]
