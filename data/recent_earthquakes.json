@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000tmwk",
+    "lat_lng": [
+      17.7854,
+      96.0025
+    ],
+    "magnitude": 4.6,
+    "title": "M 4.6 - 26 km E of Letpandan, Burma (Myanmar)",
+    "time_ut": 1787456697,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmwk"
+  },
+  {
+    "net": "us",
     "code": "6000tmte",
     "lat_lng": [
       -3.0302,
@@ -106,17 +118,5 @@
     "title": "M 4.4 - 282 km WSW of Banda Aceh, Indonesia",
     "time_ut": 1786043122,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tipc"
-  },
-  {
-    "net": "us",
-    "code": "6000th68",
-    "lat_lng": [
-      4.0899,
-      93.1811
-    ],
-    "magnitude": 4.9,
-    "title": "M 4.9 - 287 km SW of Banda Aceh, Indonesia",
-    "time_ut": 1785486688,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th68"
   }
 ]
