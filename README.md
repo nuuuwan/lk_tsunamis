@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--23_09:14:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--24_01:26:47-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| ⚪️ `2026-08-24 01:26:47` | 4.4 | [82 km W of Sungai Penuh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn0j) | [2.0711° S, 100.6511° E](https://www.google.com/maps?q=-2.0711,100.6511) | 2,467 km |
 | ⚪️ `2026-08-23 09:14:57` | 4.6 | [26 km E of Letpandan, Burma (Myanmar)](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmwk) | [17.7854° N, 96.0025° E](https://www.google.com/maps?q=17.7854,96.0025) | 1,983 km |
 | ⚪️ `2026-08-22 23:10:08` | 4.5 | [122 km SSW of Sungai Penuh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmte) | [3.0302° S, 100.8738° E](https://www.google.com/maps?q=-3.0302,100.8738) | 2,538 km |
 | ⚪️ `2026-08-22 22:03:04` | 4.7 | [170 km SW of Sungai Penuh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmt7) | [3.2971° S, 100.4875° E](https://www.google.com/maps?q=-3.2971,100.4875) | 2,515 km |
@@ -18,7 +19,6 @@
 | ⚪️ `2026-08-12 01:25:41` | 4.9 | [149 km SSE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk1m) | [10.5351° N, 93.4884° E](https://www.google.com/maps?q=10.5351,93.4884) | 1,427 km |
 | ⚪️ `2026-08-11 06:42:46` | 4.7 | [81 km SSE of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjug) | [4.4801° S, 102.5519° E](https://www.google.com/maps?q=-4.4801,102.5519) | 2,779 km |
 | 🟡 `2026-08-09 08:32:07` | 5.0 | [M 5.0 - 180 km NW of Sabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcl) | [7.0170° N, 94.1402° E](https://www.google.com/maps?q=7.017,94.1402) | 1,477 km |
-| ⚪️ `2026-08-07 00:35:22` | 4.4 | [282 km WSW of Banda Aceh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tipc) | [4.1443° N, 93.2008° E](https://www.google.com/maps?q=4.1443,93.2008) | 1,435 km |
 
 ### Most Severe Earthquakes
 
