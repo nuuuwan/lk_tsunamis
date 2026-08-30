@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000tcxc",
+    "lat_lng": [
+      -3.4659,
+      101.6611
+    ],
+    "magnitude": 4.9,
+    "title": "M 4.9 - 76 km WNW of Bengkulu, Indonesia",
+    "time_ut": 1788075473,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxc"
+  },
+  {
+    "net": "us",
     "code": "6000tn0j",
     "lat_lng": [
       -2.0711,
@@ -106,17 +118,5 @@
     "title": "M 4.7 - 81 km SSE of Bengkulu, Indonesia",
     "time_ut": 1786410766,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjug"
-  },
-  {
-    "net": "us",
-    "code": "6000tjcl",
-    "lat_lng": [
-      7.017,
-      94.1402
-    ],
-    "magnitude": 5,
-    "title": "M 5.0 - 180 km NW of Sabang, Indonesia",
-    "time_ut": 1786244527,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcl"
   }
 ]
