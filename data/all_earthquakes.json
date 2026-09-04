@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000teck",
+    "lat_lng": [
+      1.3758,
+      99.0453
+    ],
+    "magnitude": 5.1,
+    "title": "M 5.1 - 25 km W of Padangsidempuan, Indonesia",
+    "time_ut": 1788539081,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teck"
+  },
+  {
+    "net": "us",
     "code": "7000tcxc",
     "lat_lng": [
       -3.4659,
