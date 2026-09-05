@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000tejg",
+    "lat_lng": [
+      1.0574,
+      98.6095
+    ],
+    "magnitude": 5.2,
+    "title": "M 5.2 - 77 km SSW of Sibolga, Indonesia",
+    "time_ut": 1788617167,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tejg"
+  },
+  {
+    "net": "us",
     "code": "7000teiy",
     "lat_lng": [
       -4.4202,
@@ -106,17 +118,5 @@
     "title": "M 5.6 - 154 km SSE of Teluk Dalam, Indonesia",
     "time_ut": 1787032940,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkt"
-  },
-  {
-    "net": "us",
-    "code": "6000tkyk",
-    "lat_lng": [
-      3.018,
-      99.0376
-    ],
-    "magnitude": 6.9,
-    "title": "M 6.9 - 7 km NNW of Pematangsiantar, Indonesia",
-    "time_ut": 1786791292,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk"
   }
 ]

@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--05_16:29:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--05_19:36:07-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| 🟡 `2026-09-05 19:36:07` | 5.2 | [77 km SSW of Sibolga, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tejg) | [1.0574° N, 98.6095° E](https://www.google.com/maps?q=1.0574,98.6095) | 2,117 km |
 | 🟡 `2026-09-05 16:29:15` | 5.0 | [M 5.0 - 70 km SW of Pagar Alam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000teiy) | [4.4202° S, 102.7513° E](https://www.google.com/maps?q=-4.4202,102.7513) | 2,795 km |
 | ⚪️ `2026-09-05 14:44:15` | 4.5 | [87 km NNW of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000teim) | [3.2202° N, 96.1107° E](https://www.google.com/maps?q=3.2202,96.1107) | 1,774 km |
 | 🟡 `2026-09-04 21:54:41` | 5.1 | [25 km W of Padangsidempuan, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000teck) | [1.3758° N, 99.0453° E](https://www.google.com/maps?q=1.3758,99.0453) | 2,149 km |
@@ -18,7 +19,6 @@
 | ⚪️ `2026-08-22 23:10:08` | 4.5 | [122 km SSW of Sungai Penuh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmte) | [3.0302° S, 100.8738° E](https://www.google.com/maps?q=-3.0302,100.8738) | 2,538 km |
 | ⚪️ `2026-08-22 22:03:04` | 4.7 | [170 km SW of Sungai Penuh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmt7) | [3.2971° S, 100.4875° E](https://www.google.com/maps?q=-3.2971,100.4875) | 2,515 km |
 | 🟡 `2026-08-18 11:32:20` | 5.6 | [154 km SSE of Teluk Dalam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkt) | [0.6858° S, 98.4160° E](https://www.google.com/maps?q=-0.6858,98.416) | 2,175 km |
-| 🟠 `2026-08-15 16:24:52` | 6.9 | [7 km NNW of Pematangsiantar, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk) | [3.0180° N, 99.0376° E](https://www.google.com/maps?q=3.018,99.0376) | 2,092 km |
 
 ### Most Severe Earthquakes
 
