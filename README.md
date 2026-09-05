@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--04_21:54:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--05_16:29:15-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| 🟡 `2026-09-05 16:29:15` | 5.0 | [M 5.0 - 70 km SW of Pagar Alam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000teiy) | [4.4202° S, 102.7513° E](https://www.google.com/maps?q=-4.4202,102.7513) | 2,795 km |
 | 🟡 `2026-09-04 21:54:41` | 5.1 | [25 km W of Padangsidempuan, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000teck) | [1.3758° N, 99.0453° E](https://www.google.com/maps?q=1.3758,99.0453) | 2,149 km |
 | ⚪️ `2026-08-30 13:07:53` | 4.9 | [76 km WNW of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxc) | [3.4659° S, 101.6611° E](https://www.google.com/maps?q=-3.4659,101.6611) | 2,638 km |
 | ⚪️ `2026-08-24 01:26:47` | 4.4 | [82 km W of Sungai Penuh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn0j) | [2.0711° S, 100.6511° E](https://www.google.com/maps?q=-2.0711,100.6511) | 2,467 km |
@@ -18,7 +19,6 @@
 | 🟡 `2026-08-18 11:32:20` | 5.6 | [154 km SSE of Teluk Dalam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkt) | [0.6858° S, 98.4160° E](https://www.google.com/maps?q=-0.6858,98.416) | 2,175 km |
 | 🟠 `2026-08-15 16:24:52` | 6.9 | [7 km NNW of Pematangsiantar, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk) | [3.0180° N, 99.0376° E](https://www.google.com/maps?q=3.018,99.0376) | 2,092 km |
 | ⚪️ `2026-08-13 19:52:53` | 4.3 | [103 km WSW of Gunungsitoli, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkh9) | [0.8968° N, 96.7701° E](https://www.google.com/maps?q=0.8968,96.7701) | 1,935 km |
-| ⚪️ `2026-08-12 01:25:41` | 4.9 | [149 km SSE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk1m) | [10.5351° N, 93.4884° E](https://www.google.com/maps?q=10.5351,93.4884) | 1,427 km |
 
 ### Most Severe Earthquakes
 

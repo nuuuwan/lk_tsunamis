@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000teiy",
+    "lat_lng": [
+      -4.4202,
+      102.7513
+    ],
+    "magnitude": 5,
+    "title": "M 5.0 - 70 km SW of Pagar Alam, Indonesia",
+    "time_ut": 1788605955,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teiy"
+  },
+  {
+    "net": "us",
     "code": "7000teck",
     "lat_lng": [
       1.3758,
@@ -106,17 +118,5 @@
     "title": "M 4.3 - 103 km WSW of Gunungsitoli, Indonesia",
     "time_ut": 1786630973,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkh9"
-  },
-  {
-    "net": "us",
-    "code": "6000tk1m",
-    "lat_lng": [
-      10.5351,
-      93.4884
-    ],
-    "magnitude": 4.9,
-    "title": "M 4.9 - 149 km SSE of Port Blair, India",
-    "time_ut": 1786478141,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk1m"
   }
 ]
