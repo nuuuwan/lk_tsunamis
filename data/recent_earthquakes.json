@@ -13,6 +13,18 @@
   },
   {
     "net": "us",
+    "code": "7000teim",
+    "lat_lng": [
+      3.2202,
+      96.1107
+    ],
+    "magnitude": 4.5,
+    "title": "M 4.5 - 87 km NNW of Sinabang, Indonesia",
+    "time_ut": 1788599655,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teim"
+  },
+  {
+    "net": "us",
     "code": "7000teck",
     "lat_lng": [
       1.3758,
@@ -106,17 +118,5 @@
     "title": "M 6.9 - 7 km NNW of Pematangsiantar, Indonesia",
     "time_ut": 1786791292,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk"
-  },
-  {
-    "net": "us",
-    "code": "6000tkh9",
-    "lat_lng": [
-      0.8968,
-      96.7701
-    ],
-    "magnitude": 4.3,
-    "title": "M 4.3 - 103 km WSW of Gunungsitoli, Indonesia",
-    "time_ut": 1786630973,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkh9"
   }
 ]
