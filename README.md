@@ -10,6 +10,7 @@
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
 | ⚪️ `2026-09-09 05:53:19` | 4.5 | [108 km SSW of Pagar Alam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfyn) | [4.9167° S, 102.8454° E](https://www.google.com/maps?q=-4.9167,102.8454) | 2,832 km |
+| 🟡 `2026-09-05 22:55:52` | 5.4 | [Carlsberg Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tevq) | [0.4643° S, 67.7447° E](https://www.google.com/maps?q=-0.4643,67.7447) | 1,716 km |
 | 🟡 `2026-09-05 19:36:07` | 5.2 | [77 km SSW of Sibolga, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tejg) | [1.0574° N, 98.6095° E](https://www.google.com/maps?q=1.0574,98.6095) | 2,117 km |
 | 🟡 `2026-09-05 16:29:15` | 5.0 | [M 5.0 - 70 km SW of Pagar Alam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000teiy) | [4.4202° S, 102.7513° E](https://www.google.com/maps?q=-4.4202,102.7513) | 2,795 km |
 | ⚪️ `2026-09-05 14:44:15` | 4.5 | [87 km NNW of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000teim) | [3.2202° N, 96.1107° E](https://www.google.com/maps?q=3.2202,96.1107) | 1,774 km |
@@ -18,7 +19,6 @@
 | ⚪️ `2026-08-24 01:26:47` | 4.4 | [82 km W of Sungai Penuh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn0j) | [2.0711° S, 100.6511° E](https://www.google.com/maps?q=-2.0711,100.6511) | 2,467 km |
 | ⚪️ `2026-08-23 09:14:57` | 4.6 | [26 km E of Letpandan, Burma (Myanmar)](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmwk) | [17.7854° N, 96.0025° E](https://www.google.com/maps?q=17.7854,96.0025) | 1,983 km |
 | ⚪️ `2026-08-22 23:10:08` | 4.5 | [122 km SSW of Sungai Penuh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmte) | [3.0302° S, 100.8738° E](https://www.google.com/maps?q=-3.0302,100.8738) | 2,538 km |
-| ⚪️ `2026-08-22 22:03:04` | 4.7 | [170 km SW of Sungai Penuh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmt7) | [3.2971° S, 100.4875° E](https://www.google.com/maps?q=-3.2971,100.4875) | 2,515 km |
 
 ### Most Severe Earthquakes
 

@@ -13,6 +13,18 @@
   },
   {
     "net": "us",
+    "code": "7000tevq",
+    "lat_lng": [
+      -0.4643,
+      67.7447
+    ],
+    "magnitude": 5.4,
+    "title": "M 5.4 - Carlsberg Ridge",
+    "time_ut": 1788629152,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tevq"
+  },
+  {
+    "net": "us",
     "code": "7000tejg",
     "lat_lng": [
       1.0574,
@@ -106,17 +118,5 @@
     "title": "M 4.5 - 122 km SSW of Sungai Penuh, Indonesia",
     "time_ut": 1787420408,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmte"
-  },
-  {
-    "net": "us",
-    "code": "6000tmt7",
-    "lat_lng": [
-      -3.2971,
-      100.4875
-    ],
-    "magnitude": 4.7,
-    "title": "M 4.7 - 170 km SW of Sungai Penuh, Indonesia",
-    "time_ut": 1787416384,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmt7"
   }
 ]
