@@ -13,6 +13,18 @@
   },
   {
     "net": "us",
+    "code": "6000tww3",
+    "lat_lng": [
+      0.6181,
+      100.504
+    ],
+    "magnitude": 4,
+    "title": "M 4.0 - 93 km N of Payakumbuh, Indonesia",
+    "time_ut": 1789519188,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tww3"
+  },
+  {
+    "net": "us",
     "code": "7000thn3",
     "lat_lng": [
       -4.2614,
@@ -106,17 +118,5 @@
     "title": "M 4.9 - 76 km WNW of Bengkulu, Indonesia",
     "time_ut": 1788075473,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxc"
-  },
-  {
-    "net": "us",
-    "code": "6000tn0j",
-    "lat_lng": [
-      -2.0711,
-      100.6511
-    ],
-    "magnitude": 4.4,
-    "title": "M 4.4 - 82 km W of Sungai Penuh, Indonesia",
-    "time_ut": 1787515007,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn0j"
   }
 ]

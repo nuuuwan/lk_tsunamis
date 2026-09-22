@@ -10,6 +10,7 @@
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
 | ⚪️ `2026-09-18 22:07:26` | 4.6 | [28 km S of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tid2) | [4.0598° S, 102.2947° E](https://www.google.com/maps?q=-4.0598,102.2947) | 2,731 km |
+| ⚪️ `2026-09-16 06:09:48` | 4.0 | [M 4.0 - 93 km N of Payakumbuh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tww3) | [0.6181° N, 100.5040° E](https://www.google.com/maps?q=0.6181,100.504) | 2,331 km |
 | ⚪️ `2026-09-15 21:42:49` | 4.5 | [55 km SSW of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000thn3) | [4.2614° S, 102.0754° E](https://www.google.com/maps?q=-4.2614,102.0754) | 2,721 km |
 | ⚪️ `2026-09-09 05:53:19` | 4.5 | [108 km SSW of Pagar Alam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfyn) | [4.9167° S, 102.8454° E](https://www.google.com/maps?q=-4.9167,102.8454) | 2,832 km |
 | 🟡 `2026-09-05 22:55:52` | 5.4 | [Carlsberg Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tevq) | [0.4643° S, 67.7447° E](https://www.google.com/maps?q=-0.4643,67.7447) | 1,716 km |
@@ -18,7 +19,6 @@
 | ⚪️ `2026-09-05 14:44:15` | 4.5 | [87 km NNW of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000teim) | [3.2202° N, 96.1107° E](https://www.google.com/maps?q=3.2202,96.1107) | 1,774 km |
 | 🟡 `2026-09-04 21:54:41` | 5.1 | [25 km W of Padangsidempuan, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000teck) | [1.3758° N, 99.0453° E](https://www.google.com/maps?q=1.3758,99.0453) | 2,149 km |
 | ⚪️ `2026-08-30 13:07:53` | 4.9 | [76 km WNW of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxc) | [3.4659° S, 101.6611° E](https://www.google.com/maps?q=-3.4659,101.6611) | 2,638 km |
-| ⚪️ `2026-08-24 01:26:47` | 4.4 | [82 km W of Sungai Penuh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn0j) | [2.0711° S, 100.6511° E](https://www.google.com/maps?q=-2.0711,100.6511) | 2,467 km |
 
 ### Most Severe Earthquakes
 

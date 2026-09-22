@@ -13,6 +13,18 @@
   },
   {
     "net": "us",
+    "code": "6000tww3",
+    "lat_lng": [
+      0.6181,
+      100.504
+    ],
+    "magnitude": 4,
+    "title": "M 4.0 - 93 km N of Payakumbuh, Indonesia",
+    "time_ut": 1789519188,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tww3"
+  },
+  {
+    "net": "us",
     "code": "7000thn3",
     "lat_lng": [
       -4.2614,
