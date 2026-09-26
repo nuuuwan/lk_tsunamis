@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000txsh",
+    "lat_lng": [
+      1.831,
+      89.4977
+    ],
+    "magnitude": 4.7,
+    "title": "M 4.7 - North Indian Ocean",
+    "time_ut": 1790419995,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txsh"
+  },
+  {
+    "net": "us",
     "code": "7000tid2",
     "lat_lng": [
       -4.0598,
@@ -106,17 +118,5 @@
     "title": "M 5.1 - 25 km W of Padangsidempuan, Indonesia",
     "time_ut": 1788539081,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teck"
-  },
-  {
-    "net": "us",
-    "code": "7000tcxc",
-    "lat_lng": [
-      -3.4659,
-      101.6611
-    ],
-    "magnitude": 4.9,
-    "title": "M 4.9 - 76 km WNW of Bengkulu, Indonesia",
-    "time_ut": 1788075473,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxc"
   }
 ]
