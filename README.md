@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--26_16:23:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--28_20:13:10-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| ⚪️ `2026-09-28 20:13:10` | 4.7 | [115 km WSW of Banda Aceh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty5h) | [5.2548° N, 94.3303° E](https://www.google.com/maps?q=5.2548,94.3303) | 1,526 km |
 | ⚪️ `2026-09-26 16:23:15` | 4.7 | [North Indian Ocean](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txsh) | [1.8310° N, 89.4977° E](https://www.google.com/maps?q=1.831,89.4977) | 1,177 km |
 | ⚪️ `2026-09-18 22:07:26` | 4.6 | [28 km S of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tid2) | [4.0598° S, 102.2947° E](https://www.google.com/maps?q=-4.0598,102.2947) | 2,731 km |
 | ⚪️ `2026-09-16 06:09:48` | 4.0 | [M 4.0 - 93 km N of Payakumbuh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tww3) | [0.6181° N, 100.5040° E](https://www.google.com/maps?q=0.6181,100.504) | 2,331 km |
@@ -18,7 +19,6 @@
 | 🟡 `2026-09-05 19:36:07` | 5.2 | [77 km SSW of Sibolga, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tejg) | [1.0574° N, 98.6095° E](https://www.google.com/maps?q=1.0574,98.6095) | 2,117 km |
 | 🟡 `2026-09-05 16:29:15` | 5.0 | [M 5.0 - 70 km SW of Pagar Alam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000teiy) | [4.4202° S, 102.7513° E](https://www.google.com/maps?q=-4.4202,102.7513) | 2,795 km |
 | ⚪️ `2026-09-05 14:44:15` | 4.5 | [87 km NNW of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000teim) | [3.2202° N, 96.1107° E](https://www.google.com/maps?q=3.2202,96.1107) | 1,774 km |
-| 🟡 `2026-09-04 21:54:41` | 5.1 | [25 km W of Padangsidempuan, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000teck) | [1.3758° N, 99.0453° E](https://www.google.com/maps?q=1.3758,99.0453) | 2,149 km |
 
 ### Most Severe Earthquakes
 
