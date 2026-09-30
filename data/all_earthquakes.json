@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000tyh0",
+    "lat_lng": [
+      4.6488,
+      94.8515
+    ],
+    "magnitude": 4.5,
+    "title": "M 4.5 - 112 km SSW of Banda Aceh, Indonesia",
+    "time_ut": 1790735750,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyh0"
+  },
+  {
+    "net": "us",
     "code": "6000ty5h",
     "lat_lng": [
       5.2548,
