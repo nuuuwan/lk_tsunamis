@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--03_09:43:31-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--04_05:07:35-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| 🟡 `2026-10-04 05:07:35` | 5.6 | [80 km S of Banda Aceh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfg) | [4.8223° N, 95.2428° E](https://www.google.com/maps?q=4.8223,95.2428) | 1,635 km |
 | ⚪️ `2026-10-03 09:43:31` | 4.2 | [16 km ENE of Parbhani, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzax) | [19.3072° N, 76.9220° E](https://www.google.com/maps?q=19.3072,76.922) | 1,338 km |
 | ⚪️ `2026-09-30 08:05:50` | 4.5 | [112 km SSW of Banda Aceh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyh0) | [4.6488° N, 94.8515° E](https://www.google.com/maps?q=4.6488,94.8515) | 1,597 km |
 | ⚪️ `2026-09-28 20:13:10` | 4.7 | [115 km WSW of Banda Aceh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty5h) | [5.2548° N, 94.3303° E](https://www.google.com/maps?q=5.2548,94.3303) | 1,526 km |
@@ -18,7 +19,6 @@
 | ⚪️ `2026-09-15 21:42:49` | 4.5 | [55 km SSW of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000thn3) | [4.2614° S, 102.0754° E](https://www.google.com/maps?q=-4.2614,102.0754) | 2,721 km |
 | ⚪️ `2026-09-09 05:53:19` | 4.5 | [108 km SSW of Pagar Alam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfyn) | [4.9167° S, 102.8454° E](https://www.google.com/maps?q=-4.9167,102.8454) | 2,832 km |
 | 🟡 `2026-09-05 22:55:52` | 5.4 | [Carlsberg Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tevq) | [0.4643° S, 67.7447° E](https://www.google.com/maps?q=-0.4643,67.7447) | 1,716 km |
-| 🟡 `2026-09-05 19:36:07` | 5.2 | [77 km SSW of Sibolga, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tejg) | [1.0574° N, 98.6095° E](https://www.google.com/maps?q=1.0574,98.6095) | 2,117 km |
 
 ### Most Severe Earthquakes
 

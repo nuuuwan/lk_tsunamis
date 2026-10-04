@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000tzfg",
+    "lat_lng": [
+      4.8223,
+      95.2428
+    ],
+    "magnitude": 5.6,
+    "title": "M 5.6 - 80 km S of Banda Aceh, Indonesia",
+    "time_ut": 1791070655,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfg"
+  },
+  {
+    "net": "us",
     "code": "6000tzax",
     "lat_lng": [
       19.3072,
@@ -106,17 +118,5 @@
     "title": "M 5.4 - Carlsberg Ridge",
     "time_ut": 1788629152,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tevq"
-  },
-  {
-    "net": "us",
-    "code": "7000tejg",
-    "lat_lng": [
-      1.0574,
-      98.6095
-    ],
-    "magnitude": 5.2,
-    "title": "M 5.2 - 77 km SSW of Sibolga, Indonesia",
-    "time_ut": 1788617167,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tejg"
   }
 ]
