@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000u0k2",
+    "lat_lng": [
+      -3.6796,
+      101.8914
+    ],
+    "magnitude": 4.5,
+    "title": "M 4.5 - 43 km WNW of Bengkulu, Indonesia",
+    "time_ut": 1791313319,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0k2"
+  },
+  {
+    "net": "us",
     "code": "6000tzfg",
     "lat_lng": [
       4.8223,

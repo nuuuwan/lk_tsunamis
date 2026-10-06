@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000u0k2",
+    "lat_lng": [
+      -3.6796,
+      101.8914
+    ],
+    "magnitude": 4.5,
+    "title": "M 4.5 - 43 km WNW of Bengkulu, Indonesia",
+    "time_ut": 1791313319,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0k2"
+  },
+  {
+    "net": "us",
     "code": "6000tzfg",
     "lat_lng": [
       4.8223,
@@ -106,17 +118,5 @@
     "title": "M 4.5 - 108 km SSW of Pagar Alam, Indonesia",
     "time_ut": 1788913399,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfyn"
-  },
-  {
-    "net": "us",
-    "code": "7000tevq",
-    "lat_lng": [
-      -0.4643,
-      67.7447
-    ],
-    "magnitude": 5.4,
-    "title": "M 5.4 - Carlsberg Ridge",
-    "time_ut": 1788629152,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tevq"
   }
 ]
