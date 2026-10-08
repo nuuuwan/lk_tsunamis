@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000u0x2",
+    "lat_lng": [
+      5.4545,
+      94.7814
+    ],
+    "magnitude": 4.6,
+    "title": "M 4.6 - 61 km W of Banda Aceh, Indonesia",
+    "time_ut": 1791445512,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x2"
+  },
+  {
+    "net": "us",
     "code": "6000u0k2",
     "lat_lng": [
       -3.6796,
@@ -106,17 +118,5 @@
     "title": "M 4.5 - 55 km SSW of Bengkulu, Indonesia",
     "time_ut": 1789488769,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thn3"
-  },
-  {
-    "net": "us",
-    "code": "7000tfyn",
-    "lat_lng": [
-      -4.9167,
-      102.8454
-    ],
-    "magnitude": 4.5,
-    "title": "M 4.5 - 108 km SSW of Pagar Alam, Indonesia",
-    "time_ut": 1788913399,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfyn"
   }
 ]
