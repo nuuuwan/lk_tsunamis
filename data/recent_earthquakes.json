@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000u14w",
+    "lat_lng": [
+      -1.8867,
+      100.2717
+    ],
+    "magnitude": 4.9,
+    "title": "M 4.9 - 77 km ENE of Tuapejat, Indonesia",
+    "time_ut": 1791539267,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u14w"
+  },
+  {
+    "net": "us",
     "code": "6000u0yy",
     "lat_lng": [
       -3.4591,
@@ -106,17 +118,5 @@
     "title": "M 4.6 - 28 km S of Bengkulu, Indonesia",
     "time_ut": 1789749446,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tid2"
-  },
-  {
-    "net": "us",
-    "code": "6000tww3",
-    "lat_lng": [
-      0.6181,
-      100.504
-    ],
-    "magnitude": 4,
-    "title": "M 4.0 - 93 km N of Payakumbuh, Indonesia",
-    "time_ut": 1789519188,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tww3"
   }
 ]
