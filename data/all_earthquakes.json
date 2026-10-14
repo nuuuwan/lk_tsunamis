@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000u2ab",
+    "lat_lng": [
+      -4.6878,
+      101.6053
+    ],
+    "magnitude": 4.3,
+    "title": "M 4.3 - 122 km SW of Bengkulu, Indonesia",
+    "time_ut": 1791990760,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ab"
+  },
+  {
+    "net": "us",
     "code": "6000u14w",
     "lat_lng": [
       -1.8867,

@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--09_15:17:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--14_20:42:40-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| ⚪️ `2026-10-14 20:42:40` | 4.3 | [122 km SW of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ab) | [4.6878° S, 101.6053° E](https://www.google.com/maps?q=-4.6878,101.6053) | 2,700 km |
 | ⚪️ `2026-10-09 15:17:47` | 4.9 | [77 km ENE of Tuapejat, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u14w) | [1.8867° S, 100.2717° E](https://www.google.com/maps?q=-1.8867,100.2717) | 2,420 km |
 | ⚪️ `2026-10-08 20:53:47` | 4.7 | [84 km WNW of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0yy) | [3.4591° S, 101.5886° E](https://www.google.com/maps?q=-3.4591,101.5886) | 2,631 km |
 | ⚪️ `2026-10-08 13:15:12` | 4.6 | [61 km W of Banda Aceh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x2) | [5.4545° N, 94.7814° E](https://www.google.com/maps?q=5.4545,94.7814) | 1,570 km |
@@ -18,7 +19,6 @@
 | ⚪️ `2026-09-30 08:05:50` | 4.5 | [112 km SSW of Banda Aceh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyh0) | [4.6488° N, 94.8515° E](https://www.google.com/maps?q=4.6488,94.8515) | 1,597 km |
 | ⚪️ `2026-09-28 20:13:10` | 4.7 | [115 km WSW of Banda Aceh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty5h) | [5.2548° N, 94.3303° E](https://www.google.com/maps?q=5.2548,94.3303) | 1,526 km |
 | ⚪️ `2026-09-26 16:23:15` | 4.7 | [North Indian Ocean](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txsh) | [1.8310° N, 89.4977° E](https://www.google.com/maps?q=1.831,89.4977) | 1,177 km |
-| ⚪️ `2026-09-18 22:07:26` | 4.6 | [28 km S of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tid2) | [4.0598° S, 102.2947° E](https://www.google.com/maps?q=-4.0598,102.2947) | 2,731 km |
 
 ### Most Severe Earthquakes
 
