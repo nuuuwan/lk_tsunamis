@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--18_20:00:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--20_21:59:38-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| 🟡 `2026-10-20 21:59:38` | 5.0 | [M 5.0 - 21 km SW of Meulaboh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nc) | [4.0005° N, 95.9930° E](https://www.google.com/maps?q=4.0005,95.993) | 1,737 km |
 | ⚪️ `2026-10-18 20:00:07` | 4.6 | [Carlsberg Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u366) | [1.4520° N, 66.9867° E](https://www.google.com/maps?q=1.452,66.9867) | 1,686 km |
 | ⚪️ `2026-10-14 20:42:40` | 4.3 | [122 km SW of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ab) | [4.6878° S, 101.6053° E](https://www.google.com/maps?q=-4.6878,101.6053) | 2,700 km |
 | ⚪️ `2026-10-12 21:07:21` | 4.6 | [170 km SSE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1sk) | [10.1601° N, 93.0837° E](https://www.google.com/maps?q=10.1601,93.0837) | 1,376 km |
@@ -18,7 +19,6 @@
 | ⚪️ `2026-10-07 00:31:59` | 4.5 | [43 km WNW of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0k2) | [3.6796° S, 101.8914° E](https://www.google.com/maps?q=-3.6796,101.8914) | 2,672 km |
 | 🟡 `2026-10-04 05:07:35` | 5.6 | [80 km S of Banda Aceh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfg) | [4.8223° N, 95.2428° E](https://www.google.com/maps?q=4.8223,95.2428) | 1,635 km |
 | ⚪️ `2026-10-03 09:43:31` | 4.2 | [16 km ENE of Parbhani, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzax) | [19.3072° N, 76.9220° E](https://www.google.com/maps?q=19.3072,76.922) | 1,338 km |
-| ⚪️ `2026-09-30 08:05:50` | 4.5 | [112 km SSW of Banda Aceh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyh0) | [4.6488° N, 94.8515° E](https://www.google.com/maps?q=4.6488,94.8515) | 1,597 km |
 
 ### Most Severe Earthquakes
 
