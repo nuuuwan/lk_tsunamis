@@ -37,6 +37,18 @@
   },
   {
     "net": "us",
+    "code": "6000u4b1",
+    "lat_lng": [
+      -2.7505,
+      67.981
+    ],
+    "magnitude": 4.6,
+    "title": "M 4.6 - Carlsberg Ridge",
+    "time_ut": 1792315838,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4b1"
+  },
+  {
+    "net": "us",
     "code": "6000u2ab",
     "lat_lng": [
       -4.6878,

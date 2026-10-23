@@ -12,13 +12,13 @@
 | ⚪️ `2026-10-22 16:27:52` | 4.9 | [85 km NNW of Curup, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u42q) | [2.8037° S, 102.1272° E](https://www.google.com/maps?q=-2.8037,102.1272) | 2,650 km |
 | 🟡 `2026-10-20 21:59:38` | 5.0 | [M 5.0 - 21 km SW of Meulaboh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nc) | [4.0005° N, 95.9930° E](https://www.google.com/maps?q=4.0005,95.993) | 1,737 km |
 | ⚪️ `2026-10-18 20:00:07` | 4.6 | [Carlsberg Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u366) | [1.4520° N, 66.9867° E](https://www.google.com/maps?q=1.452,66.9867) | 1,686 km |
+| ⚪️ `2026-10-18 15:00:38` | 4.6 | [Carlsberg Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4b1) | [2.7505° S, 67.9810° E](https://www.google.com/maps?q=-2.7505,67.981) | 1,846 km |
 | ⚪️ `2026-10-14 20:42:40` | 4.3 | [122 km SW of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ab) | [4.6878° S, 101.6053° E](https://www.google.com/maps?q=-4.6878,101.6053) | 2,700 km |
 | ⚪️ `2026-10-12 21:07:21` | 4.6 | [170 km SSE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1sk) | [10.1601° N, 93.0837° E](https://www.google.com/maps?q=10.1601,93.0837) | 1,376 km |
 | ⚪️ `2026-10-09 15:17:47` | 4.9 | [77 km ENE of Tuapejat, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u14w) | [1.8867° S, 100.2717° E](https://www.google.com/maps?q=-1.8867,100.2717) | 2,420 km |
 | ⚪️ `2026-10-08 20:53:47` | 4.7 | [84 km WNW of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0yy) | [3.4591° S, 101.5886° E](https://www.google.com/maps?q=-3.4591,101.5886) | 2,631 km |
 | ⚪️ `2026-10-08 13:15:12` | 4.6 | [61 km W of Banda Aceh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x2) | [5.4545° N, 94.7814° E](https://www.google.com/maps?q=5.4545,94.7814) | 1,570 km |
 | ⚪️ `2026-10-07 00:31:59` | 4.5 | [43 km WNW of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0k2) | [3.6796° S, 101.8914° E](https://www.google.com/maps?q=-3.6796,101.8914) | 2,672 km |
-| 🟡 `2026-10-04 05:07:35` | 5.6 | [80 km S of Banda Aceh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfg) | [4.8223° N, 95.2428° E](https://www.google.com/maps?q=4.8223,95.2428) | 1,635 km |
 
 ### Most Severe Earthquakes
 
