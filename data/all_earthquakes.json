@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000u4g1",
+    "lat_lng": [
+      19.0951,
+      102.0178
+    ],
+    "magnitude": 4.2,
+    "title": "M 4.2 - 37 km ESE of Sainyabuli, Laos",
+    "time_ut": 1792783881,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4g1"
+  },
+  {
+    "net": "us",
     "code": "6000u42q",
     "lat_lng": [
       -2.8037,
