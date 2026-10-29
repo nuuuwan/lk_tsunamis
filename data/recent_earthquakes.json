@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000tty7",
+    "lat_lng": [
+      13.3785,
+      91.6593
+    ],
+    "magnitude": 5.1,
+    "title": "M 5.1 - 218 km NNW of Bamboo Flat, India",
+    "time_ut": 1793263782,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tty7"
+  },
+  {
+    "net": "us",
     "code": "6000u4g1",
     "lat_lng": [
       19.0951,
@@ -106,17 +118,5 @@
     "title": "M 4.7 - 84 km WNW of Bengkulu, Indonesia",
     "time_ut": 1791473027,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0yy"
-  },
-  {
-    "net": "us",
-    "code": "6000u0x2",
-    "lat_lng": [
-      5.4545,
-      94.7814
-    ],
-    "magnitude": 4.6,
-    "title": "M 4.6 - 61 km W of Banda Aceh, Indonesia",
-    "time_ut": 1791445512,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x2"
   }
 ]
