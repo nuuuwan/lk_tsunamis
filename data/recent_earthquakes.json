@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000tw3n",
+    "lat_lng": [
+      -1.4064,
+      88.0827
+    ],
+    "magnitude": 4.5,
+    "title": "M 4.5 - South Indian Ocean",
+    "time_ut": 1793822766,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw3n"
+  },
+  {
+    "net": "us",
     "code": "7000tty7",
     "lat_lng": [
       13.3785,
@@ -106,17 +118,5 @@
     "title": "M 4.9 - 77 km ENE of Tuapejat, Indonesia",
     "time_ut": 1791539267,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u14w"
-  },
-  {
-    "net": "us",
-    "code": "6000u0yy",
-    "lat_lng": [
-      -3.4591,
-      101.5886
-    ],
-    "magnitude": 4.7,
-    "title": "M 4.7 - 84 km WNW of Bengkulu, Indonesia",
-    "time_ut": 1791473027,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0yy"
   }
 ]

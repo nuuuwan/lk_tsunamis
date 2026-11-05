@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000tw3n",
+    "lat_lng": [
+      -1.4064,
+      88.0827
+    ],
+    "magnitude": 4.5,
+    "title": "M 4.5 - South Indian Ocean",
+    "time_ut": 1793822766,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw3n"
+  },
+  {
+    "net": "us",
     "code": "7000tty7",
     "lat_lng": [
       13.3785,
