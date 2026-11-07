@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000twqr",
+    "lat_lng": [
+      4.2919,
+      95.3048
+    ],
+    "magnitude": 4.4,
+    "title": "M 4.4 - 92 km W of Meulaboh, Indonesia",
+    "time_ut": 1794034430,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twqr"
+  },
+  {
+    "net": "us",
     "code": "7000tw3n",
     "lat_lng": [
       -1.4064,
@@ -106,17 +118,5 @@
     "title": "M 4.6 - 170 km SSE of Port Blair, India",
     "time_ut": 1791819441,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1sk"
-  },
-  {
-    "net": "us",
-    "code": "6000u14w",
-    "lat_lng": [
-      -1.8867,
-      100.2717
-    ],
-    "magnitude": 4.9,
-    "title": "M 4.9 - 77 km ENE of Tuapejat, Indonesia",
-    "time_ut": 1791539267,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u14w"
   }
 ]

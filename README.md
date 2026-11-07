@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--05_01:36:06-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--07_12:23:50-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| ⚪️ `2026-11-07 12:23:50` | 4.4 | [92 km W of Meulaboh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twqr) | [4.2919° N, 95.3048° E](https://www.google.com/maps?q=4.2919,95.3048) | 1,655 km |
 | ⚪️ `2026-11-05 01:36:06` | 4.5 | [South Indian Ocean](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw3n) | [1.4064° S, 88.0827° E](https://www.google.com/maps?q=-1.4064,88.0827) | 1,312 km |
 | 🟡 `2026-10-29 14:19:42` | 5.1 | [218 km NNW of Bamboo Flat, India](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tty7) | [13.3785° N, 91.6593° E](https://www.google.com/maps?q=13.3785,91.6593) | 1,338 km |
 | ⚪️ `2026-10-24 01:01:21` | 4.2 | [37 km ESE of Sainyabuli, Laos](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4g1) | [19.0951° N, 102.0178° E](https://www.google.com/maps?q=19.0951,102.0178) | 2,610 km |
@@ -18,7 +19,6 @@
 | ⚪️ `2026-10-18 15:00:38` | 4.6 | [Carlsberg Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4b1) | [2.7505° S, 67.9810° E](https://www.google.com/maps?q=-2.7505,67.981) | 1,846 km |
 | ⚪️ `2026-10-14 20:42:40` | 4.3 | [122 km SW of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ab) | [4.6878° S, 101.6053° E](https://www.google.com/maps?q=-4.6878,101.6053) | 2,700 km |
 | ⚪️ `2026-10-12 21:07:21` | 4.6 | [170 km SSE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1sk) | [10.1601° N, 93.0837° E](https://www.google.com/maps?q=10.1601,93.0837) | 1,376 km |
-| ⚪️ `2026-10-09 15:17:47` | 4.9 | [77 km ENE of Tuapejat, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u14w) | [1.8867° S, 100.2717° E](https://www.google.com/maps?q=-1.8867,100.2717) | 2,420 km |
 
 ### Most Severe Earthquakes
 
