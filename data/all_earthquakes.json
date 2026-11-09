@@ -13,6 +13,18 @@
   },
   {
     "net": "us",
+    "code": "7000twg8",
+    "lat_lng": [
+      -2.0748,
+      98.719
+    ],
+    "magnitude": 4.2,
+    "title": "M 4.2 - 96 km W of Tuapejat, Indonesia",
+    "time_ut": 1793961047,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twg8"
+  },
+  {
+    "net": "us",
     "code": "7000tw3n",
     "lat_lng": [
       -1.4064,
