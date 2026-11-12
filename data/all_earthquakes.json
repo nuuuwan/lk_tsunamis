@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000txf8",
+    "lat_lng": [
+      3.9179,
+      97.359
+    ],
+    "magnitude": 4.5,
+    "title": "M 4.5 - 61 km ENE of Blangpidie, Indonesia",
+    "time_ut": 1794348547,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txf8"
+  },
+  {
+    "net": "us",
     "code": "7000twqr",
     "lat_lng": [
       4.2919,
