@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000ty6n",
+    "lat_lng": [
+      3.304,
+      92.8261
+    ],
+    "magnitude": 5.2,
+    "title": "M 5.2 - off the west coast of northern Sumatra",
+    "time_ut": 1794625169,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6n"
+  },
+  {
+    "net": "us",
     "code": "7000txf8",
     "lat_lng": [
       3.9179,

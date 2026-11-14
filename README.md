@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--11_03:39:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--14_08:29:29-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| 🟡 `2026-11-14 08:29:29` | 5.2 | [off the west coast of northern Sumatra](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6n) | [3.3040° N, 92.8261° E](https://www.google.com/maps?q=3.304,92.8261) | 1,427 km |
 | ⚪️ `2026-11-11 03:39:07` | 4.5 | [61 km ENE of Blangpidie, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txf8) | [3.9179° N, 97.3590° E](https://www.google.com/maps?q=3.9179,97.359) | 1,886 km |
 | ⚪️ `2026-11-07 12:23:50` | 4.4 | [92 km W of Meulaboh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twqr) | [4.2919° N, 95.3048° E](https://www.google.com/maps?q=4.2919,95.3048) | 1,655 km |
 | ⚪️ `2026-11-06 16:00:47` | 4.2 | [96 km W of Tuapejat, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twg8) | [2.0748° S, 98.7190° E](https://www.google.com/maps?q=-2.0748,98.719) | 2,277 km |
@@ -18,7 +19,6 @@
 | ⚪️ `2026-10-22 16:27:52` | 4.9 | [85 km NNW of Curup, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u42q) | [2.8037° S, 102.1272° E](https://www.google.com/maps?q=-2.8037,102.1272) | 2,650 km |
 | 🟡 `2026-10-20 21:59:38` | 5.0 | [M 5.0 - 21 km SW of Meulaboh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nc) | [4.0005° N, 95.9930° E](https://www.google.com/maps?q=4.0005,95.993) | 1,737 km |
 | ⚪️ `2026-10-18 20:00:07` | 4.6 | [Carlsberg Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u366) | [1.4520° N, 66.9867° E](https://www.google.com/maps?q=1.452,66.9867) | 1,686 km |
-| ⚪️ `2026-10-18 15:00:38` | 4.6 | [Carlsberg Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4b1) | [2.7505° S, 67.9810° E](https://www.google.com/maps?q=-2.7505,67.981) | 1,846 km |
 
 ### Most Severe Earthquakes
 
