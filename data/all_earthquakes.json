@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000tyeu",
+    "lat_lng": [
+      19.9786,
+      94.7157
+    ],
+    "magnitude": 4.4,
+    "title": "M 4.4 - 27 km SW of Minbu, Burma (Myanmar)",
+    "time_ut": 1794753123,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyeu"
+  },
+  {
+    "net": "us",
     "code": "7000ty6n",
     "lat_lng": [
       3.304,

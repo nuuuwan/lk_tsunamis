@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "7000tyeu",
+    "lat_lng": [
+      19.9786,
+      94.7157
+    ],
+    "magnitude": 4.4,
+    "title": "M 4.4 - 27 km SW of Minbu, Burma (Myanmar)",
+    "time_ut": 1794753123,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyeu"
+  },
+  {
+    "net": "us",
     "code": "7000ty6n",
     "lat_lng": [
       3.304,
@@ -106,17 +118,5 @@
     "title": "M 5.0 - 21 km SW of Meulaboh, Indonesia",
     "time_ut": 1792513778,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nc"
-  },
-  {
-    "net": "us",
-    "code": "6000u366",
-    "lat_lng": [
-      1.452,
-      66.9867
-    ],
-    "magnitude": 4.6,
-    "title": "M 4.6 - Carlsberg Ridge",
-    "time_ut": 1792333807,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u366"
   }
 ]
