@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--15_20:02:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--19_07:04:52-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| 🟡 `2026-11-19 07:04:52` | 5.2 | [141 km W of Teluk Dalam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxb) | [0.5231° N, 96.5298° E](https://www.google.com/maps?q=0.5231,96.5298) | 1,928 km |
 | ⚪️ `2026-11-15 20:02:03` | 4.4 | [27 km SW of Minbu, Burma (Myanmar)](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyeu) | [19.9786° N, 94.7157° E](https://www.google.com/maps?q=19.9786,94.7157) | 2,016 km |
 | 🟡 `2026-11-14 08:29:29` | 5.2 | [off the west coast of northern Sumatra](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6n) | [3.3040° N, 92.8261° E](https://www.google.com/maps?q=3.304,92.8261) | 1,427 km |
 | ⚪️ `2026-11-11 03:39:07` | 4.5 | [61 km ENE of Blangpidie, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txf8) | [3.9179° N, 97.3590° E](https://www.google.com/maps?q=3.9179,97.359) | 1,886 km |
@@ -18,7 +19,6 @@
 | 🟡 `2026-10-29 14:19:42` | 5.1 | [218 km NNW of Bamboo Flat, India](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tty7) | [13.3785° N, 91.6593° E](https://www.google.com/maps?q=13.3785,91.6593) | 1,338 km |
 | ⚪️ `2026-10-24 01:01:21` | 4.2 | [37 km ESE of Sainyabuli, Laos](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4g1) | [19.0951° N, 102.0178° E](https://www.google.com/maps?q=19.0951,102.0178) | 2,610 km |
 | ⚪️ `2026-10-22 16:27:52` | 4.9 | [85 km NNW of Curup, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u42q) | [2.8037° S, 102.1272° E](https://www.google.com/maps?q=-2.8037,102.1272) | 2,650 km |
-| 🟡 `2026-10-20 21:59:38` | 5.0 | [M 5.0 - 21 km SW of Meulaboh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nc) | [4.0005° N, 95.9930° E](https://www.google.com/maps?q=4.0005,95.993) | 1,737 km |
 
 ### Most Severe Earthquakes
 
