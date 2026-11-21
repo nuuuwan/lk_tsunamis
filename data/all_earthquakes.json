@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000ucnl",
+    "lat_lng": [
+      -0.9875,
+      100.7174
+    ],
+    "magnitude": 4.2,
+    "title": "M 4.2 - 21 km SSE of Solok, Indonesia",
+    "time_ut": 1795290746,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucnl"
+  },
+  {
+    "net": "us",
     "code": "6000ubxb",
     "lat_lng": [
       0.5231,
