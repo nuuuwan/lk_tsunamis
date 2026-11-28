@@ -1,7 +1,7 @@
 # lk_tsunamis
 
 ![Status: Live](https://img.shields.io/badge/status-live-brightgreen)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--22_01:22:26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--28_14:00:38-green)
 
 ## Earthquakes near Sri Lanka 🇱🇰
 
@@ -9,6 +9,7 @@
 
 | Date & Time | Magnitude | Location | Coordinates | Distance to LK |
 |------------:|----------:|----------|------------:|---------------:|
+| ⚪️ `2026-11-28 14:00:38` | 4.5 | [154 km WSW of Banda Aceh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue2z) | [4.7979° N, 94.1555° E](https://www.google.com/maps?q=4.7979,94.1555) | 1,518 km |
 | ⚪️ `2026-11-22 01:22:26` | 4.2 | [21 km SSE of Solok, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucnl) | [0.9875° S, 100.7174° E](https://www.google.com/maps?q=-0.9875,100.7174) | 2,421 km |
 | 🟡 `2026-11-19 07:04:52` | 5.2 | [141 km W of Teluk Dalam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxb) | [0.5231° N, 96.5298° E](https://www.google.com/maps?q=0.5231,96.5298) | 1,928 km |
 | ⚪️ `2026-11-15 20:02:03` | 4.4 | [27 km SW of Minbu, Burma (Myanmar)](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyeu) | [19.9786° N, 94.7157° E](https://www.google.com/maps?q=19.9786,94.7157) | 2,016 km |
@@ -18,7 +19,6 @@
 | ⚪️ `2026-11-06 16:00:47` | 4.2 | [96 km W of Tuapejat, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twg8) | [2.0748° S, 98.7190° E](https://www.google.com/maps?q=-2.0748,98.719) | 2,277 km |
 | ⚪️ `2026-11-05 01:36:06` | 4.5 | [South Indian Ocean](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw3n) | [1.4064° S, 88.0827° E](https://www.google.com/maps?q=-1.4064,88.0827) | 1,312 km |
 | 🟡 `2026-10-29 14:19:42` | 5.1 | [218 km NNW of Bamboo Flat, India](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tty7) | [13.3785° N, 91.6593° E](https://www.google.com/maps?q=13.3785,91.6593) | 1,338 km |
-| ⚪️ `2026-10-24 01:01:21` | 4.2 | [37 km ESE of Sainyabuli, Laos](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4g1) | [19.0951° N, 102.0178° E](https://www.google.com/maps?q=19.0951,102.0178) | 2,610 km |
 
 ### Most Severe Earthquakes
 

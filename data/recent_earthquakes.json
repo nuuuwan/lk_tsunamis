@@ -1,6 +1,18 @@
 [
   {
     "net": "us",
+    "code": "6000ue2z",
+    "lat_lng": [
+      4.7979,
+      94.1555
+    ],
+    "magnitude": 4.5,
+    "title": "M 4.5 - 154 km WSW of Banda Aceh, Indonesia",
+    "time_ut": 1795854638,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue2z"
+  },
+  {
+    "net": "us",
     "code": "6000ucnl",
     "lat_lng": [
       -0.9875,
@@ -106,17 +118,5 @@
     "title": "M 5.1 - 218 km NNW of Bamboo Flat, India",
     "time_ut": 1793263782,
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tty7"
-  },
-  {
-    "net": "us",
-    "code": "6000u4g1",
-    "lat_lng": [
-      19.0951,
-      102.0178
-    ],
-    "magnitude": 4.2,
-    "title": "M 4.2 - 37 km ESE of Sainyabuli, Laos",
-    "time_ut": 1792783881,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4g1"
   }
 ]
